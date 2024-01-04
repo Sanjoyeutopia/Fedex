@@ -1,0 +1,1001 @@
+Employee ID,Name,Department,Years of Service,Number of Packages Delivered,Route Efficiency Score,Customer Satisfaction Rating
+FDX00001,Donald Carter,Customer Service,16,,,4.364782829114278
+FDX00002,Sabrina Lloyd,Logistics,1,8251.0,53.46287886990797,
+FDX00003,Samantha Brooks,Logistics,15,7332.0,66.68272454166986,
+FDX00004,Kevin Lambert,Logistics,29,9834.0,63.965469134210224,
+FDX00005,Henry Smith,Customer Service,6,,,1.0854920847118588
+FDX00006,Dawn Jackson,Human Resources,15,,,
+FDX00007,Sarah Mcdonald DDS,IT Support,15,,,
+FDX00008,Amy Smith,Human Resources,15,,,
+FDX00009,Kristin Gordon,Management,7,,,
+FDX00010,Stephanie Salazar,Human Resources,5,,,
+FDX00011,Samuel Mckay,IT Support,10,,,
+FDX00012,Gregory Williams,Management,14,,,
+FDX00013,Kathryn Massey,IT Support,16,,,
+FDX00014,Anthony Wagner DVM,Human Resources,4,,,
+FDX00015,Joseph Suarez,IT Support,18,,,
+FDX00016,Jean Marsh,IT Support,28,,,
+FDX00017,Dylan Alexander,Customer Service,18,,,2.083612972950829
+FDX00018,Jill Fox,Management,26,,,
+FDX00019,Shawn Anderson,Logistics,12,1561.0,68.0470209478068,
+FDX00020,Stephen Bailey,Human Resources,17,,,
+FDX00021,Marc Robinson,Management,28,,,
+FDX00022,Sylvia Williams MD,Management,16,,,
+FDX00023,Amy Stone,Customer Service,11,,,3.3831561809990958
+FDX00024,Leah Flores,Management,19,,,
+FDX00025,Stanley Kidd,Human Resources,17,,,
+FDX00026,John Durham,Customer Service,29,,,4.16663644248907
+FDX00027,Diana Rogers,Human Resources,17,,,
+FDX00028,Robert Daniels,Management,6,,,
+FDX00029,Todd Perry,IT Support,21,,,
+FDX00030,Traci King,Logistics,26,7463.0,67.14499430406607,
+FDX00031,Darrell Krause,Human Resources,11,,,
+FDX00032,Christine Ramirez,IT Support,10,,,
+FDX00033,Timothy Diaz,IT Support,6,,,
+FDX00034,Karen Rodriguez,Customer Service,1,,,3.7804542859624966
+FDX00035,Stacy Castillo,Management,25,,,
+FDX00036,Stephen Payne,IT Support,29,,,
+FDX00037,Teresa Beck,Human Resources,19,,,
+FDX00038,Wesley Alexander,Logistics,18,8675.0,86.31680101179901,
+FDX00039,Tasha Hunt,Management,9,,,
+FDX00040,Stacy Smith,Logistics,25,891.0,84.64705365940694,
+FDX00041,Amanda Evans,IT Support,6,,,
+FDX00042,Craig Wolfe,IT Support,2,,,
+FDX00043,Kari Williams,Management,6,,,
+FDX00044,Melissa Smith,Customer Service,17,,,3.093352093889466
+FDX00045,Jesse Shannon,Logistics,25,1791.0,60.016405153339434,
+FDX00046,Karen Smith,Logistics,22,1874.0,72.32421045888037,
+FDX00047,James Mccullough,Logistics,21,6500.0,71.64794417585239,
+FDX00048,Arthur Williams,Human Resources,23,,,
+FDX00049,James Brown,Logistics,13,2053.0,52.709548934967394,
+FDX00050,William Cole,Customer Service,25,,,3.342430653930035
+FDX00051,Rodney Glover,Management,9,,,
+FDX00052,Sean James,Customer Service,22,,,1.130821055622623
+FDX00053,Christopher Ellison,IT Support,14,,,
+FDX00054,Erica Richardson,Management,30,,,
+FDX00055,Kelli Munoz,Human Resources,12,,,
+FDX00056,Melvin Hampton,IT Support,23,,,
+FDX00057,Curtis Gray,Management,4,,,
+FDX00058,Brandy Manning,Logistics,25,5257.0,91.71989947369023,
+FDX00059,Evelyn Wheeler,Logistics,6,5333.0,59.12540263204862,
+FDX00060,Douglas Williams,Logistics,21,9352.0,93.66222712035533,
+FDX00061,Victor Harmon,IT Support,18,,,
+FDX00062,James Archer,Human Resources,14,,,
+FDX00063,Sara Stuart,IT Support,18,,,
+FDX00064,Robin Lopez,Customer Service,3,,,3.659403987529839
+FDX00065,Valerie Lopez,IT Support,18,,,
+FDX00066,Natalie Anderson,IT Support,11,,,
+FDX00067,Tammy Allen,IT Support,7,,,
+FDX00068,Stephanie Hernandez,Logistics,11,1228.0,86.60644548408447,
+FDX00069,Matthew Tate,Customer Service,8,,,3.3655183949659144
+FDX00070,Lisa Heath,Human Resources,16,,,
+FDX00071,Michael Welch,Human Resources,10,,,
+FDX00072,Kevin Padilla,Logistics,28,2403.0,78.61211909604427,
+FDX00073,Jeffrey Hawkins,Logistics,11,10.0,90.92405669419607,
+FDX00074,Brian English,IT Support,14,,,
+FDX00075,Patricia Cross,IT Support,6,,,
+FDX00076,Sarah Jones,Customer Service,27,,,2.440662644660402
+FDX00077,Nicholas Hughes,Customer Service,11,,,4.168001785022069
+FDX00078,Kelly Moore,IT Support,5,,,
+FDX00079,Dawn Chambers,Customer Service,23,,,1.6259850191649075
+FDX00080,Jamie Benson,Management,10,,,
+FDX00081,Logan Hayes,Human Resources,7,,,
+FDX00082,Curtis Craig,Human Resources,23,,,
+FDX00083,Crystal Bryan,Management,22,,,
+FDX00084,Kimberly Lopez DDS,Customer Service,10,,,3.7088579752031725
+FDX00085,Brandon Cox,Human Resources,2,,,
+FDX00086,Timothy Pratt,Logistics,26,8380.0,59.63617091605927,
+FDX00087,Melissa Hayes,Customer Service,15,,,4.052358851130805
+FDX00088,Barbara Randall,IT Support,8,,,
+FDX00089,Cristian Molina,Management,27,,,
+FDX00090,Yolanda Anderson,Human Resources,29,,,
+FDX00091,Mary Kennedy,Human Resources,3,,,
+FDX00092,Kenneth Thomas,Customer Service,3,,,1.4776809546427345
+FDX00093,John Pratt,Management,5,,,
+FDX00094,Danielle Campbell,Human Resources,30,,,
+FDX00095,Joseph Lewis,Customer Service,5,,,2.081257014896826
+FDX00096,Joan Woodard,Logistics,1,1857.0,85.1396203683118,
+FDX00097,Andrew Young,Human Resources,18,,,
+FDX00098,Joseph Garcia,Customer Service,20,,,1.6668110009984223
+FDX00099,Joseph Wilcox,Logistics,9,7615.0,69.4931554816466,
+FDX00100,Mr. Joshua Mendez,Logistics,1,6276.0,55.665686780339925,
+FDX00101,Melanie Wood,Human Resources,1,,,
+FDX00102,Nicholas Johnson,Human Resources,10,,,
+FDX00103,Courtney Richardson,IT Support,29,,,
+FDX00104,Brian Pennington,Logistics,23,9659.0,92.50446025489676,
+FDX00105,William Cantrell,Management,20,,,
+FDX00106,Eric Calderon,Management,10,,,
+FDX00107,Rebecca Owens,Management,23,,,
+FDX00108,Andre Rosario,Logistics,2,5106.0,83.66780866810333,
+FDX00109,Diane Todd,IT Support,9,,,
+FDX00110,Edward Lawson,Human Resources,6,,,
+FDX00111,Kevin Carpenter,IT Support,4,,,
+FDX00112,Jamie Berger,Logistics,27,332.0,71.74011999856104,
+FDX00113,Steven Vazquez,Human Resources,24,,,
+FDX00114,Scott Powell,Human Resources,28,,,
+FDX00115,Christopher Simmons,Human Resources,3,,,
+FDX00116,Rhonda Singleton,Human Resources,26,,,
+FDX00117,Mary Davis,Logistics,1,8639.0,77.97705034477549,
+FDX00118,Kimberly Miranda,IT Support,18,,,
+FDX00119,Christopher Newman,Customer Service,20,,,2.880859779786257
+FDX00120,Olivia West,Management,2,,,
+FDX00121,Vernon Paul,IT Support,17,,,
+FDX00122,Randall Walsh,IT Support,13,,,
+FDX00123,Gwendolyn Chen,Logistics,24,7261.0,60.55125092206679,
+FDX00124,Melissa Crawford,Logistics,26,8284.0,90.58443012009246,
+FDX00125,Andrew Barker,Logistics,21,3286.0,63.77394291146972,
+FDX00126,Michelle Randall,Customer Service,24,,,1.4945672225384556
+FDX00127,Shelley Chapman,Customer Service,6,,,2.4036855015668683
+FDX00128,Paula Carter,Customer Service,14,,,1.620693908435035
+FDX00129,Justin Dawson,Customer Service,2,,,1.6400726434950994
+FDX00130,Eric Martin,Management,10,,,
+FDX00131,Sophia Johnson,IT Support,29,,,
+FDX00132,Alexis Benitez,IT Support,3,,,
+FDX00133,Richard Spencer,Management,16,,,
+FDX00134,Heather Villanueva,Logistics,4,3810.0,82.08076303166793,
+FDX00135,Carolyn Smith,Management,30,,,
+FDX00136,Marvin Calderon,IT Support,4,,,
+FDX00137,Jonathan Bradley,IT Support,15,,,
+FDX00138,Jeffrey Chang,Management,9,,,
+FDX00139,Marcus Jefferson,Customer Service,28,,,3.3119306988586716
+FDX00140,Rebecca White,Customer Service,10,,,1.104190734766083
+FDX00141,Tony Campos,Human Resources,29,,,
+FDX00142,Sharon Ross,IT Support,21,,,
+FDX00143,Charles Miller,Customer Service,25,,,1.4316572479160552
+FDX00144,Tammy Gonzalez,IT Support,4,,,
+FDX00145,Patrick Holmes,IT Support,7,,,
+FDX00146,Jessica Suarez,Management,7,,,
+FDX00147,Melissa Carpenter,IT Support,14,,,
+FDX00148,Amy Monroe,Management,13,,,
+FDX00149,Marissa Wilson,IT Support,25,,,
+FDX00150,Jerry Bruce,Human Resources,10,,,
+FDX00151,Marcus Price,Logistics,12,7822.0,98.83074091412465,
+FDX00152,Jacob Campbell,Customer Service,4,,,4.368943677249294
+FDX00153,Shelley Reyes,Management,21,,,
+FDX00154,Stephanie Branch,Customer Service,17,,,3.082841662361521
+FDX00155,Loretta Avila,Human Resources,21,,,
+FDX00156,Antonio Johnson,Customer Service,24,,,3.7680179905707654
+FDX00157,Amanda James,Human Resources,8,,,
+FDX00158,Kathleen Garcia,Human Resources,2,,,
+FDX00159,Donna Chambers,Logistics,20,1507.0,58.090706463639954,
+FDX00160,Joseph Shaw,IT Support,15,,,
+FDX00161,Victoria Howe,Customer Service,21,,,2.2372912879292737
+FDX00162,Carl Torres,Customer Service,24,,,1.7916605779460486
+FDX00163,Anthony Hartman,Management,26,,,
+FDX00164,Justin Washington,Management,29,,,
+FDX00165,Nicolas Smith,Management,18,,,
+FDX00166,Stephanie Lowery,Management,5,,,
+FDX00167,Robert Melton,Customer Service,8,,,1.8385944176907176
+FDX00168,Eduardo Hutchinson,Human Resources,3,,,
+FDX00169,Maria Caldwell,Logistics,10,7424.0,96.30678159918047,
+FDX00170,Melissa Silva,Management,30,,,
+FDX00171,Hayley Tyler,IT Support,2,,,
+FDX00172,Michael Campbell,Human Resources,24,,,
+FDX00173,Kathleen Conley,IT Support,15,,,
+FDX00174,Edward Briggs,Human Resources,25,,,
+FDX00175,Marie Harrison,Human Resources,5,,,
+FDX00176,Ronald Rodriguez,Management,1,,,
+FDX00177,Thomas Castro,Customer Service,14,,,4.975409809920016
+FDX00178,Jorge Taylor,Management,1,,,
+FDX00179,Lisa Brown,Logistics,30,7429.0,50.42688474753227,
+FDX00180,Jesse Wheeler,Human Resources,25,,,
+FDX00181,Matthew Williams,Logistics,27,1951.0,63.33100163482847,
+FDX00182,Debra Owens,Customer Service,14,,,1.605598946233986
+FDX00183,Robert Wright,Human Resources,13,,,
+FDX00184,Jeffery Tapia,IT Support,2,,,
+FDX00185,Dr. John White,IT Support,3,,,
+FDX00186,Nicole Le,Customer Service,12,,,1.9405348933473983
+FDX00187,Theresa Medina,Customer Service,6,,,3.3015985835676482
+FDX00188,Amanda Hamilton,Management,25,,,
+FDX00189,Monica Oconnor,Management,9,,,
+FDX00190,Anthony Parrish,Management,22,,,
+FDX00191,Barbara Wells,IT Support,25,,,
+FDX00192,Kevin Gilmore,Management,5,,,
+FDX00193,John Peck,Management,2,,,
+FDX00194,Annette Andrade,Human Resources,25,,,
+FDX00195,Amanda Ross,IT Support,28,,,
+FDX00196,Michael Flynn,Human Resources,28,,,
+FDX00197,Bruce Wilson,Human Resources,1,,,
+FDX00198,Jason Johnson,Management,14,,,
+FDX00199,Stephen Allen,Logistics,12,1248.0,68.56964719874709,
+FDX00200,Kathy Ellis,Customer Service,20,,,2.902772397154381
+FDX00201,David Harris,Customer Service,29,,,1.53325724789363
+FDX00202,Haley Olson,Management,8,,,
+FDX00203,Thomas Winters,Logistics,3,5219.0,59.734794523600655,
+FDX00204,Mrs. Nancy Kelley DDS,Logistics,17,2032.0,94.42887663604361,
+FDX00205,Aaron Hall,Management,29,,,
+FDX00206,Gloria Mills,IT Support,21,,,
+FDX00207,Matthew Cook,Logistics,18,3780.0,57.55898612045026,
+FDX00208,Heather Smith,Logistics,19,3917.0,56.98650142656578,
+FDX00209,Taylor Hunter,Logistics,5,1255.0,56.86421724996863,
+FDX00210,Gabrielle Hamilton,Logistics,11,3250.0,50.18860601751082,
+FDX00211,David Thomas,Human Resources,13,,,
+FDX00212,Mrs. Heidi Harris,Management,19,,,
+FDX00213,Ralph Smith,Customer Service,2,,,4.084937965344833
+FDX00214,Allison Robinson,IT Support,8,,,
+FDX00215,Holly Martinez,Logistics,14,4222.0,95.7753935212576,
+FDX00216,Brad Dyer,Customer Service,14,,,2.933449239578787
+FDX00217,Mary Hill,Logistics,30,4616.0,67.21410513367712,
+FDX00218,Mark Bauer,Customer Service,28,,,4.065407165318845
+FDX00219,Beth Scott,Logistics,28,2365.0,92.38872543377342,
+FDX00220,Katrina Vargas,IT Support,13,,,
+FDX00221,Dr. Andrew Hernandez MD,Management,10,,,
+FDX00222,Daniel Hamilton,Management,10,,,
+FDX00223,Scott Arnold,Customer Service,10,,,1.7029651415046914
+FDX00224,Gabriela Brown,Logistics,13,6638.0,96.46203575755945,
+FDX00225,Scott Carney,Human Resources,4,,,
+FDX00226,Adam Garrison,Management,15,,,
+FDX00227,Jessica Mcbride,IT Support,20,,,
+FDX00228,Thomas Weber,Logistics,17,871.0,91.54466423685442,
+FDX00229,Jamie Montoya,Customer Service,14,,,3.7430319805539924
+FDX00230,Steven Copeland,Logistics,19,6796.0,81.74388295754063,
+FDX00231,Amy Boyd,Management,7,,,
+FDX00232,Karen Norman,Logistics,10,9446.0,83.325068669227,
+FDX00233,Tyler Bond,IT Support,30,,,
+FDX00234,Thomas Abbott,Customer Service,20,,,3.3960313387562664
+FDX00235,Lauren Dominguez,IT Support,23,,,
+FDX00236,David Raymond,IT Support,21,,,
+FDX00237,Alisha Ball,Management,9,,,
+FDX00238,Trevor Mora,Customer Service,26,,,1.7976585680109736
+FDX00239,Shane Perkins,Logistics,13,5020.0,92.33408281996405,
+FDX00240,Sarah Hodges,IT Support,20,,,
+FDX00241,William Gomez,IT Support,8,,,
+FDX00242,Michael Vasquez,IT Support,11,,,
+FDX00243,Eric Parsons,Customer Service,5,,,1.0994346019654615
+FDX00244,April Fletcher,Logistics,3,5450.0,58.22938576981609,
+FDX00245,Christopher Craig,Customer Service,5,,,2.5421201500600077
+FDX00246,Anthony Little,Customer Service,26,,,1.5453583220260017
+FDX00247,Gregory Bennett,Logistics,13,3608.0,76.88103940308636,
+FDX00248,Carrie Green,Management,24,,,
+FDX00249,Jason Thompson,IT Support,5,,,
+FDX00250,Nicole Villegas,Logistics,3,6312.0,81.76947267622434,
+FDX00251,Heather Weber,Customer Service,12,,,3.8827193873517034
+FDX00252,Michael Kaufman,Logistics,17,1060.0,73.7991089386959,
+FDX00253,Anthony Keller,Management,18,,,
+FDX00254,Tammy Blanchard,IT Support,29,,,
+FDX00255,Daniel Weaver,Customer Service,25,,,3.355406089508761
+FDX00256,Amber Martinez,Logistics,22,7629.0,78.47339707104203,
+FDX00257,Matthew Wright,Human Resources,15,,,
+FDX00258,George Smith,Human Resources,29,,,
+FDX00259,Jennifer Lee,Human Resources,17,,,
+FDX00260,Amber Hill,IT Support,21,,,
+FDX00261,Emily Jensen,Customer Service,27,,,2.4655448013162
+FDX00262,John Edwards,Logistics,16,1080.0,87.47291243387639,
+FDX00263,Miss Laura Downs,Customer Service,25,,,4.2295074676896345
+FDX00264,Crystal Harris,Management,20,,,
+FDX00265,Jennifer Donaldson,Human Resources,13,,,
+FDX00266,Amanda Kennedy,Logistics,16,7673.0,68.66936511358472,
+FDX00267,Edward Blake,Management,30,,,
+FDX00268,Jennifer Moore,Management,8,,,
+FDX00269,Denise Martinez,Human Resources,4,,,
+FDX00270,Suzanne Cooper,IT Support,3,,,
+FDX00271,Amber Sullivan,Management,19,,,
+FDX00272,Lisa Ryan,Human Resources,13,,,
+FDX00273,Ethan George,Human Resources,12,,,
+FDX00274,Shari Booth,Human Resources,28,,,
+FDX00275,Carolyn Townsend,Customer Service,8,,,3.39578450479679
+FDX00276,Paul Silva,Human Resources,12,,,
+FDX00277,Robert Jones,IT Support,28,,,
+FDX00278,Brittany Christensen,Human Resources,21,,,
+FDX00279,Shannon Coleman,Logistics,8,3318.0,77.20912258738826,
+FDX00280,Crystal Perez,Customer Service,15,,,4.155429084989892
+FDX00281,Stephen Evans,Human Resources,14,,,
+FDX00282,Brent Ramirez,Human Resources,20,,,
+FDX00283,Barbara Rodriguez,Logistics,7,1933.0,76.47162407596119,
+FDX00284,Janet Vargas,IT Support,6,,,
+FDX00285,William Wilson,Logistics,24,3391.0,89.07346700231562,
+FDX00286,Christina Wall,IT Support,2,,,
+FDX00287,Alvin Brown,Management,25,,,
+FDX00288,Robert Oneal,Customer Service,8,,,3.466833785030945
+FDX00289,Joseph Schmidt MD,Human Resources,28,,,
+FDX00290,Donald Bush,Human Resources,8,,,
+FDX00291,Scott Smith,Management,19,,,
+FDX00292,Bryan Anderson,IT Support,20,,,
+FDX00293,Melissa Williams,Logistics,22,8432.0,79.62422169055002,
+FDX00294,Patricia Hernandez,Human Resources,7,,,
+FDX00295,Dr. Holly Duke,Human Resources,6,,,
+FDX00296,Stephanie Johnson,Human Resources,16,,,
+FDX00297,Sarah Hansen,Human Resources,9,,,
+FDX00298,Susan Hensley,Customer Service,6,,,2.541406537852876
+FDX00299,Robert Hill,Human Resources,23,,,
+FDX00300,Jesse Gonzales,Customer Service,28,,,1.28736771145843
+FDX00301,Rachel Wilson,Logistics,18,2503.0,78.10700863143089,
+FDX00302,Jeffery Hall,Management,27,,,
+FDX00303,Matthew Montoya,Logistics,29,3266.0,73.3017876289686,
+FDX00304,Shawn West,IT Support,11,,,
+FDX00305,Shannon White,Human Resources,26,,,
+FDX00306,Tamara Booker,IT Support,22,,,
+FDX00307,David Quinn,Management,20,,,
+FDX00308,Mark Baxter,Customer Service,29,,,3.2306405197903407
+FDX00309,Cindy Benjamin,Customer Service,28,,,4.7678185944348055
+FDX00310,Shawn May,Logistics,4,8218.0,83.6280153355678,
+FDX00311,Patty Terry,Human Resources,7,,,
+FDX00312,Ryan Rogers,IT Support,9,,,
+FDX00313,Scott Green,Logistics,2,2579.0,81.43808504426157,
+FDX00314,Tina Strickland,Customer Service,3,,,1.977275976951653
+FDX00315,Virginia Marks,Customer Service,18,,,1.0761410881896145
+FDX00316,Alexis Brown,Management,21,,,
+FDX00317,Sharon Smith,Management,27,,,
+FDX00318,Richard Johnson,Human Resources,9,,,
+FDX00319,Jack Rodriguez,Logistics,18,4491.0,73.29088010177011,
+FDX00320,Robin Parker,Logistics,1,9963.0,84.87105230651682,
+FDX00321,James Graham,Management,11,,,
+FDX00322,Michael Johnston,IT Support,26,,,
+FDX00323,Kimberly Williams,Management,13,,,
+FDX00324,Jennifer Austin,Management,9,,,
+FDX00325,Harold Mendez,Logistics,21,3899.0,99.62032516795655,
+FDX00326,Alyssa Riley,Human Resources,9,,,
+FDX00327,Amanda Smith,Logistics,19,5588.0,81.48058150467409,
+FDX00328,Carrie Johnson,Human Resources,9,,,
+FDX00329,Joyce Nguyen,Customer Service,8,,,4.496586429415363
+FDX00330,Jacqueline Salinas,Management,16,,,
+FDX00331,Christina Hughes,Customer Service,1,,,4.187383219922842
+FDX00332,Michael Carroll,Human Resources,3,,,
+FDX00333,Evelyn Romero,IT Support,6,,,
+FDX00334,Nicole Watson MD,IT Support,23,,,
+FDX00335,Jack Davis,Logistics,15,1655.0,78.31914676443274,
+FDX00336,Kayla Ballard,Logistics,6,903.0,84.22617391891706,
+FDX00337,Lisa Hamilton,Management,14,,,
+FDX00338,Kathy Duncan,Human Resources,17,,,
+FDX00339,Justin Hill,IT Support,17,,,
+FDX00340,Katherine West,Human Resources,6,,,
+FDX00341,Mackenzie Hanson,IT Support,27,,,
+FDX00342,Timothy Moore,IT Support,15,,,
+FDX00343,Johnny Farley,Logistics,23,741.0,89.60206173732854,
+FDX00344,David Joseph,Human Resources,15,,,
+FDX00345,Gregg Cruz,Human Resources,21,,,
+FDX00346,Daniel Douglas,Management,9,,,
+FDX00347,Ian Pacheco,Management,15,,,
+FDX00348,Joseph Buck,IT Support,9,,,
+FDX00349,Joshua Cochran,Logistics,14,94.0,78.07305179583221,
+FDX00350,Jessica Nichols,Management,18,,,
+FDX00351,David Wilkerson,IT Support,11,,,
+FDX00352,Franklin Hughes,Management,15,,,
+FDX00353,David Kim,IT Support,5,,,
+FDX00354,Jennifer Roberts,Customer Service,28,,,4.21692301581104
+FDX00355,Sheri Mora,Management,22,,,
+FDX00356,Julie Patton,Customer Service,19,,,2.213211087019338
+FDX00357,Kimberly Gray,Human Resources,22,,,
+FDX00358,Walter Townsend,Human Resources,13,,,
+FDX00359,Gwendolyn Paul,Customer Service,29,,,2.7546221585061486
+FDX00360,Tiffany Richardson,Human Resources,5,,,
+FDX00361,Gregory Horton,Customer Service,17,,,4.170915650274301
+FDX00362,Jacob Bean,Management,23,,,
+FDX00363,Eric Clark,Human Resources,19,,,
+FDX00364,Frank Martinez,Management,2,,,
+FDX00365,Scott Meyer,Management,6,,,
+FDX00366,Timothy Robinson,Logistics,9,488.0,78.9976421773408,
+FDX00367,Patricia Tran,Management,7,,,
+FDX00368,Dalton Wheeler,IT Support,2,,,
+FDX00369,Jennifer Jensen,Logistics,21,4922.0,74.28432096339338,
+FDX00370,Adam Zimmerman,Human Resources,22,,,
+FDX00371,Gabrielle Hampton,Logistics,20,2143.0,57.31246914617234,
+FDX00372,Lori Miller,Human Resources,12,,,
+FDX00373,Christopher Curtis,Customer Service,9,,,1.074972306369745
+FDX00374,Troy Davis,Customer Service,25,,,2.2537878275908745
+FDX00375,Timothy Morales,Human Resources,13,,,
+FDX00376,Robert Cooper,Management,21,,,
+FDX00377,Diana Dawson,Customer Service,22,,,1.6551847650565805
+FDX00378,Joshua Dickson,Logistics,29,1561.0,84.63147717751849,
+FDX00379,Sarah Garrett,Logistics,2,4587.0,51.78945907349707,
+FDX00380,Jennifer Sutton,Customer Service,10,,,2.0170524504022564
+FDX00381,Mark Smith,Human Resources,10,,,
+FDX00382,Victoria Brown,Customer Service,9,,,3.327113593550271
+FDX00383,Guy Davis,Management,5,,,
+FDX00384,Matthew Lowe,Human Resources,25,,,
+FDX00385,Scott York,Logistics,9,2843.0,60.00809339221155,
+FDX00386,Todd Lewis,Customer Service,20,,,1.5996150565668161
+FDX00387,Matthew Harris,IT Support,19,,,
+FDX00388,Jennifer Stout,Customer Service,26,,,1.82520188215595
+FDX00389,Justin Raymond,Management,28,,,
+FDX00390,Diane Roman,Human Resources,23,,,
+FDX00391,Karen Kim,Logistics,28,9767.0,86.48560588765508,
+FDX00392,Stacey Miller,IT Support,26,,,
+FDX00393,Maria Hunt,Management,13,,,
+FDX00394,Michael Fox,IT Support,26,,,
+FDX00395,Linda Fitzgerald,Human Resources,21,,,
+FDX00396,Amy Murphy,Management,7,,,
+FDX00397,Lisa Hardy,Logistics,13,4460.0,90.90843828391463,
+FDX00398,Mr. Bruce Martinez,IT Support,28,,,
+FDX00399,Anthony Perry,Logistics,24,7774.0,88.5530592076195,
+FDX00400,John Sanchez,Human Resources,11,,,
+FDX00401,Johnny Walker,IT Support,2,,,
+FDX00402,Corey Scott,Human Resources,24,,,
+FDX00403,Jessica Wright,Logistics,19,6440.0,65.62890204056987,
+FDX00404,Antonio Fields,Management,13,,,
+FDX00405,Amy Rios,Management,26,,,
+FDX00406,Thomas Thompson,IT Support,9,,,
+FDX00407,Kyle Johnson,Logistics,23,3189.0,61.981185608696215,
+FDX00408,Michelle White,Human Resources,5,,,
+FDX00409,Michael Jones,Logistics,9,4375.0,52.86259522623773,
+FDX00410,Kathy Garcia,Management,2,,,
+FDX00411,Christopher Mcgee,Customer Service,12,,,4.111459561934468
+FDX00412,James Dillon,Logistics,8,6421.0,60.19902883643361,
+FDX00413,Brandon Bird,Human Resources,9,,,
+FDX00414,Raymond Goodwin,IT Support,19,,,
+FDX00415,Walter Caldwell,Logistics,1,2487.0,83.22738054813277,
+FDX00416,Jennifer Huff,IT Support,23,,,
+FDX00417,Jacob Patterson,Management,1,,,
+FDX00418,Lisa Davidson,Customer Service,1,,,1.628602957276546
+FDX00419,Debra Hobbs,Customer Service,28,,,2.841138327036918
+FDX00420,Katrina Scott,Customer Service,17,,,4.177894116567744
+FDX00421,Pamela Duran,IT Support,6,,,
+FDX00422,Tracy Wong,IT Support,11,,,
+FDX00423,Tracey Fernandez,IT Support,25,,,
+FDX00424,Brenda Kemp,Logistics,23,2571.0,58.62024749360637,
+FDX00425,Timothy Nelson,Logistics,11,2550.0,52.230953188372055,
+FDX00426,Omar Johnson,Management,19,,,
+FDX00427,Ana Salazar,Logistics,10,8638.0,64.14027323490966,
+FDX00428,Sherry Grant,Logistics,6,688.0,63.04232566760241,
+FDX00429,Gregory Lewis,Human Resources,1,,,
+FDX00430,Edward Silva,Management,19,,,
+FDX00431,Robert Mcdonald,Management,13,,,
+FDX00432,Lori Thompson,Customer Service,2,,,1.1790316687948152
+FDX00433,James Keith,Human Resources,2,,,
+FDX00434,Benjamin Moore,Customer Service,12,,,1.123878906284848
+FDX00435,Matthew Jordan,IT Support,18,,,
+FDX00436,Tyler Terry,Management,8,,,
+FDX00437,James Fisher,Human Resources,28,,,
+FDX00438,Kevin Byrd,Human Resources,8,,,
+FDX00439,Alejandro Stephenson,Logistics,28,6996.0,68.53632879273238,
+FDX00440,Ashley Williams,Logistics,18,225.0,93.57281254133048,
+FDX00441,Paul Garcia,Human Resources,25,,,
+FDX00442,Mark Johnson,Logistics,6,101.0,83.59599569701051,
+FDX00443,Jonathon Buck,IT Support,7,,,
+FDX00444,Jocelyn Bartlett,Logistics,23,3788.0,89.79551468450785,
+FDX00445,Heather Scott,Management,19,,,
+FDX00446,James Case,Customer Service,18,,,2.6608963892661017
+FDX00447,Timothy Bush,IT Support,19,,,
+FDX00448,Tammy Perez,IT Support,18,,,
+FDX00449,Derek Hall,Management,30,,,
+FDX00450,Matthew Rivera,Customer Service,20,,,3.7234595758136146
+FDX00451,Timothy Mcgee,Management,5,,,
+FDX00452,Chad Gross,IT Support,22,,,
+FDX00453,Nathaniel Harvey,Human Resources,2,,,
+FDX00454,Diana Bright,Human Resources,15,,,
+FDX00455,Erin Benjamin,Customer Service,22,,,3.809626900675211
+FDX00456,Melissa Reynolds,Customer Service,24,,,2.23816693459844
+FDX00457,Craig Garrison,Customer Service,6,,,2.870870939204656
+FDX00458,Lisa Shah,Logistics,22,5734.0,62.86967164285079,
+FDX00459,Breanna Young,Human Resources,16,,,
+FDX00460,Amanda Parker,Human Resources,8,,,
+FDX00461,Anthony Wright,IT Support,30,,,
+FDX00462,Amy Benton,Logistics,8,4697.0,68.31825424059065,
+FDX00463,Dominic Willis,Customer Service,17,,,4.251034315707924
+FDX00464,Robin Ross,IT Support,2,,,
+FDX00465,Matthew Guzman,Customer Service,4,,,2.167307637500983
+FDX00466,Randall Novak Jr.,Customer Service,17,,,2.459265825070736
+FDX00467,Lisa Juarez,Logistics,7,1542.0,99.10605712047528,
+FDX00468,Jessica Byrd,Management,29,,,
+FDX00469,Russell Clark,Human Resources,8,,,
+FDX00470,Maria Foster,IT Support,15,,,
+FDX00471,James Glass,IT Support,20,,,
+FDX00472,Miguel Martin,Customer Service,21,,,2.7207411658513196
+FDX00473,Laurie Parker,Customer Service,29,,,4.688092094782046
+FDX00474,Dylan Gillespie,Management,14,,,
+FDX00475,Tammy Dorsey,Management,24,,,
+FDX00476,Carla Carter,Logistics,16,7745.0,55.017459931090414,
+FDX00477,David Castro,Logistics,10,3727.0,66.10061185321267,
+FDX00478,Jared Williams,Management,15,,,
+FDX00479,Lisa Jordan,Management,3,,,
+FDX00480,Mallory Rivera,Logistics,23,2266.0,93.90935456846343,
+FDX00481,Lisa Owen,IT Support,3,,,
+FDX00482,Melissa Williamson,IT Support,22,,,
+FDX00483,Sonya Lyons,Customer Service,4,,,4.645691362218704
+FDX00484,George Rice,Human Resources,5,,,
+FDX00485,Nicole Monroe,IT Support,8,,,
+FDX00486,Stephen Reese,IT Support,19,,,
+FDX00487,Jim Cole,Human Resources,20,,,
+FDX00488,Ellen Hahn,Customer Service,26,,,3.682421229330895
+FDX00489,Cindy Gill,Logistics,2,2852.0,53.743179422917734,
+FDX00490,Marilyn Riddle,Human Resources,26,,,
+FDX00491,Kristina Williams,Human Resources,7,,,
+FDX00492,Stephen Dean,IT Support,5,,,
+FDX00493,Jill Waters,Human Resources,21,,,
+FDX00494,Bridget Jones,IT Support,30,,,
+FDX00495,Monique Mosley,Human Resources,11,,,
+FDX00496,Francis Hernandez,Management,11,,,
+FDX00497,Eric Hensley,Human Resources,21,,,
+FDX00498,Warren Thomas,Human Resources,3,,,
+FDX00499,Jacqueline Garza,IT Support,27,,,
+FDX00500,Russell Mitchell,Logistics,2,3133.0,60.53090981249497,
+FDX00501,Shelley Roberts,Logistics,21,5744.0,64.68768743102241,
+FDX00502,Edward Hughes,IT Support,5,,,
+FDX00503,Paul Butler,Management,7,,,
+FDX00504,Amy Smith,Customer Service,2,,,2.045996555848924
+FDX00505,James Heath,Human Resources,30,,,
+FDX00506,David Booker,Customer Service,24,,,1.3563823402181323
+FDX00507,Michael Lewis,Logistics,18,9838.0,83.43427303439461,
+FDX00508,Brent Fischer,Logistics,27,3031.0,86.88853378019024,
+FDX00509,Zachary Gill,Logistics,3,8715.0,74.62587693041772,
+FDX00510,Ashley Buchanan,IT Support,1,,,
+FDX00511,Stacy Armstrong,IT Support,6,,,
+FDX00512,Victoria Gates,Human Resources,10,,,
+FDX00513,Brandy Moreno,Management,25,,,
+FDX00514,Meghan Acosta,Human Resources,22,,,
+FDX00515,Blake Olson,Logistics,7,6240.0,56.58374736513342,
+FDX00516,Melissa Sims,Human Resources,24,,,
+FDX00517,Chad Ayers,Logistics,20,3099.0,95.23869752855097,
+FDX00518,Ariel Marsh,Customer Service,28,,,3.5722901996984597
+FDX00519,Carly Burke,IT Support,1,,,
+FDX00520,Jennifer Shea,Customer Service,21,,,1.3266123403311414
+FDX00521,Mary Thomas,Management,17,,,
+FDX00522,Jennifer Edwards,Management,18,,,
+FDX00523,Keith Arnold,Human Resources,2,,,
+FDX00524,Megan Herman,Customer Service,2,,,1.9738331318533184
+FDX00525,Whitney Phillips,Logistics,8,8963.0,61.92922169172873,
+FDX00526,Katherine Fletcher,IT Support,7,,,
+FDX00527,Lisa Underwood,Human Resources,1,,,
+FDX00528,Gary Marshall,Customer Service,25,,,2.8685142041667864
+FDX00529,Crystal Knapp,Human Resources,14,,,
+FDX00530,Steven Thomas,Human Resources,23,,,
+FDX00531,Stacey Smith,IT Support,24,,,
+FDX00532,Geoffrey Nguyen,Human Resources,27,,,
+FDX00533,Kenneth Rosales,Human Resources,5,,,
+FDX00534,Steven Zimmerman,Human Resources,20,,,
+FDX00535,Eric Schroeder,Management,23,,,
+FDX00536,Caleb Dominguez,Customer Service,14,,,2.2742897536632114
+FDX00537,Renee Boyle,Human Resources,20,,,
+FDX00538,Tina Sharp,Logistics,11,19.0,89.21863103317376,
+FDX00539,Mitchell Bridges,Logistics,21,1442.0,91.7420582968409,
+FDX00540,David Bass,Human Resources,13,,,
+FDX00541,Rachel Bailey,Management,24,,,
+FDX00542,Dawn Clarke,Customer Service,3,,,2.507936854903679
+FDX00543,Michael Kelly,Human Resources,16,,,
+FDX00544,Angela Robertson,Logistics,12,1357.0,85.05367847076587,
+FDX00545,Sydney Merritt,IT Support,23,,,
+FDX00546,Joseph Mitchell,IT Support,21,,,
+FDX00547,Amanda Hogan,IT Support,19,,,
+FDX00548,Shannon Myers,Logistics,1,6628.0,75.43661396059534,
+FDX00549,Anthony Black,Logistics,3,8584.0,85.85862717868028,
+FDX00550,Jennifer Brown,IT Support,18,,,
+FDX00551,Dale Cook,Customer Service,3,,,2.2379178477730104
+FDX00552,Lauren Dennis,Logistics,14,6081.0,94.81972207885092,
+FDX00553,Jennifer Hampton,Management,4,,,
+FDX00554,Kurt Bell,Management,30,,,
+FDX00555,Ashley Fox,Customer Service,7,,,2.0575889184398006
+FDX00556,Zachary Scott,Human Resources,18,,,
+FDX00557,Linda Thomas,Customer Service,30,,,3.228218989974788
+FDX00558,Joan Williams,Human Resources,1,,,
+FDX00559,Calvin Mann,Management,22,,,
+FDX00560,Mark Castillo,Customer Service,13,,,3.960521027318977
+FDX00561,Dr. Robin Giles,Customer Service,21,,,4.238452528750376
+FDX00562,Lucas Sloan,Customer Service,2,,,3.5911864443363246
+FDX00563,Daniel Ewing,Logistics,25,5667.0,73.96548973846772,
+FDX00564,Richard Durham,Customer Service,20,,,2.8088783963135486
+FDX00565,Adrian Norris,IT Support,9,,,
+FDX00566,Veronica Velez,IT Support,11,,,
+FDX00567,Jennifer Wallace,Human Resources,23,,,
+FDX00568,Patricia Dougherty,Customer Service,7,,,2.7603217640256057
+FDX00569,Thomas Mann,Logistics,4,8345.0,57.82320827242849,
+FDX00570,Gary Carter,Customer Service,7,,,4.171156349562656
+FDX00571,Christina Benson,Customer Service,15,,,2.1622831198478805
+FDX00572,Ashley Adkins,Management,2,,,
+FDX00573,Holly Gonzalez,IT Support,5,,,
+FDX00574,Juan Cruz,Management,15,,,
+FDX00575,Taylor Russell,Customer Service,9,,,1.8825847202952817
+FDX00576,Justin Curtis,Logistics,13,4355.0,55.19474678272527,
+FDX00577,Sandra Zuniga,Human Resources,12,,,
+FDX00578,John Long,Human Resources,28,,,
+FDX00579,Catherine Cole,Customer Service,24,,,3.4061271152084336
+FDX00580,Lisa Woodward,Logistics,14,2970.0,58.438163195443025,
+FDX00581,Stephen Watts,Management,20,,,
+FDX00582,Sarah Henderson,Management,5,,,
+FDX00583,Steven Wolfe MD,Logistics,6,1278.0,51.79934198946349,
+FDX00584,Caroline Dougherty,Customer Service,27,,,1.0622489554376862
+FDX00585,Lisa Davis,IT Support,4,,,
+FDX00586,Terry Kelley,Human Resources,11,,,
+FDX00587,Leslie Brown,Management,7,,,
+FDX00588,Tamara Anderson,Management,28,,,
+FDX00589,Robert Dunn,IT Support,25,,,
+FDX00590,Zachary Reese,IT Support,24,,,
+FDX00591,Charles Lee,Management,26,,,
+FDX00592,Randy Anderson,Management,18,,,
+FDX00593,Mr. Ryan Brown,IT Support,29,,,
+FDX00594,Karla Harris,Human Resources,20,,,
+FDX00595,Kenneth Young,Logistics,15,603.0,54.33900904097463,
+FDX00596,Joshua Dunn,IT Support,14,,,
+FDX00597,Kelsey Davis,Customer Service,17,,,1.7139001904641757
+FDX00598,Dustin Walker,IT Support,28,,,
+FDX00599,Sean Mitchell,Customer Service,8,,,3.9423330414145674
+FDX00600,Kevin Johnson,Logistics,30,57.0,69.38035950022609,
+FDX00601,James Lopez,Logistics,9,4892.0,72.74393195138568,
+FDX00602,Mckenzie Kemp,IT Support,17,,,
+FDX00603,Brian Cox,Logistics,14,1816.0,80.81704936284709,
+FDX00604,Tracy Arnold,IT Support,24,,,
+FDX00605,Joshua Douglas,Logistics,11,436.0,82.6099902517249,
+FDX00606,Angela Powell,Customer Service,18,,,3.6913351884291608
+FDX00607,Robert Hubbard,Management,1,,,
+FDX00608,Brian Martin,Logistics,21,3009.0,63.336443049681236,
+FDX00609,Angelica Stevens,Management,8,,,
+FDX00610,Jason Norton,Human Resources,12,,,
+FDX00611,Thomas Hoffman,Human Resources,28,,,
+FDX00612,David Brown,Management,29,,,
+FDX00613,Tyler White,IT Support,5,,,
+FDX00614,David Reeves,IT Support,8,,,
+FDX00615,William Mccarthy,Management,9,,,
+FDX00616,Jason Davis,Human Resources,29,,,
+FDX00617,Becky Young,Logistics,24,3528.0,67.97456237012685,
+FDX00618,Dennis Bennett,Customer Service,3,,,2.745481104789982
+FDX00619,Anthony Ellis,Management,1,,,
+FDX00620,John Charles,IT Support,10,,,
+FDX00621,Ricky Brown,Management,19,,,
+FDX00622,Justin Kennedy,IT Support,23,,,
+FDX00623,Christopher Phillips,Logistics,20,6731.0,60.763274348531006,
+FDX00624,Luis Escobar,IT Support,28,,,
+FDX00625,Amber Davenport,Logistics,26,1873.0,51.07785277155319,
+FDX00626,Mr. Jeremy Saunders,Human Resources,24,,,
+FDX00627,Sarah Clark,Human Resources,12,,,
+FDX00628,Julia Moore,IT Support,3,,,
+FDX00629,Sara Hancock,Human Resources,20,,,
+FDX00630,Joshua Flowers,Customer Service,8,,,1.1780016803934656
+FDX00631,Tina Hopkins,Customer Service,5,,,4.734151950768049
+FDX00632,Jeffrey Wagner,Logistics,21,994.0,71.89444285167122,
+FDX00633,Heidi Garza,Management,18,,,
+FDX00634,Phillip Hanson,Logistics,23,5789.0,57.70822634016443,
+FDX00635,Susan Orr,Human Resources,3,,,
+FDX00636,Joshua Clark,Human Resources,11,,,
+FDX00637,Leonard Taylor,Logistics,14,2959.0,69.0683085345481,
+FDX00638,Maria Norman,Customer Service,28,,,3.228557111455151
+FDX00639,Marcus Ellison,Human Resources,9,,,
+FDX00640,Danielle Bonilla,Management,19,,,
+FDX00641,Jacob Martin,Management,20,,,
+FDX00642,Brandi Huerta,Logistics,8,3663.0,88.6491416378762,
+FDX00643,Meghan Jacobs,Management,11,,,
+FDX00644,Jennifer Lee,Logistics,28,1641.0,61.19936557597402,
+FDX00645,Suzanne Page,Human Resources,12,,,
+FDX00646,Sherry Gordon,Human Resources,9,,,
+FDX00647,Sharon Lopez,IT Support,6,,,
+FDX00648,Erica Mcdaniel,Customer Service,2,,,2.506587241713127
+FDX00649,Michael Jennings,Human Resources,3,,,
+FDX00650,Jennifer Jackson,Management,8,,,
+FDX00651,William Dixon,Customer Service,10,,,2.6083518060950617
+FDX00652,Bryan Stanton,Logistics,11,3736.0,99.21944431862391,
+FDX00653,David Howell Jr.,Management,14,,,
+FDX00654,Charles Wilson,IT Support,22,,,
+FDX00655,Vicki Stokes,Logistics,8,7688.0,94.0410522690876,
+FDX00656,Brandon Colon,Management,13,,,
+FDX00657,Hailey Watson,Management,10,,,
+FDX00658,Chelsea Jordan,Customer Service,2,,,3.422352431446529
+FDX00659,David Schmitt,IT Support,11,,,
+FDX00660,Christopher Bishop,Human Resources,17,,,
+FDX00661,Brenda Phillips,IT Support,18,,,
+FDX00662,Mr. Richard Smith,Customer Service,21,,,3.860830322477194
+FDX00663,Stephanie Jimenez,IT Support,4,,,
+FDX00664,Jeremy Barton,Management,7,,,
+FDX00665,Richard Potter,Human Resources,3,,,
+FDX00666,William Paul,IT Support,21,,,
+FDX00667,Samantha Phelps,Customer Service,24,,,1.3924964410298983
+FDX00668,Lynn Thomas,IT Support,12,,,
+FDX00669,Andrew Hart,Logistics,19,9498.0,87.7244906600777,
+FDX00670,Laura Ball,Management,3,,,
+FDX00671,Megan Bolton,Customer Service,22,,,1.8459097179884103
+FDX00672,Jessica Huff,Customer Service,29,,,4.121472939239327
+FDX00673,Jessica Barnes,Management,6,,,
+FDX00674,Mark Evans,Logistics,20,1357.0,93.70834293707586,
+FDX00675,Dawn Flores,Management,19,,,
+FDX00676,Christopher Casey,Management,18,,,
+FDX00677,Keith King,IT Support,1,,,
+FDX00678,Calvin Moore,Customer Service,24,,,1.7025678203309522
+FDX00679,Holly Franco,IT Support,22,,,
+FDX00680,Frank Simpson,Customer Service,25,,,1.9963263514311462
+FDX00681,Jamie Wilson,Logistics,30,3884.0,61.65563905193478,
+FDX00682,Pedro Hogan,IT Support,12,,,
+FDX00683,Kathleen Rhodes,Logistics,18,7059.0,80.97816268786175,
+FDX00684,David Vasquez,Human Resources,7,,,
+FDX00685,Michael Johnson,Logistics,24,4817.0,61.71805274958488,
+FDX00686,Kyle Lucas,IT Support,6,,,
+FDX00687,Angela Jackson,Logistics,6,7888.0,98.48346438590985,
+FDX00688,Dustin Wilson,Logistics,6,6750.0,62.286436345120656,
+FDX00689,Calvin Flores,Logistics,25,8928.0,92.5368815036901,
+FDX00690,Dana Berger,Management,2,,,
+FDX00691,Alicia Bautista,IT Support,10,,,
+FDX00692,Kara Taylor,Logistics,2,7262.0,99.4643575747767,
+FDX00693,Wayne Hudson,Customer Service,26,,,2.8493622272846437
+FDX00694,Kathryn Davis,IT Support,6,,,
+FDX00695,Heather Lane,Customer Service,23,,,1.531280733029285
+FDX00696,Jill Graham,Logistics,25,2090.0,93.10293550120862,
+FDX00697,Sara Patrick,Management,24,,,
+FDX00698,Stacey Sheppard,Customer Service,16,,,3.442533017696264
+FDX00699,Max Haynes,IT Support,25,,,
+FDX00700,Destiny Rodgers,Management,5,,,
+FDX00701,Angelica Hayes,Human Resources,28,,,
+FDX00702,Alejandra Snyder,Customer Service,20,,,2.7277868590518386
+FDX00703,Joseph Miller,IT Support,14,,,
+FDX00704,Dr. Brittany Brooks,IT Support,13,,,
+FDX00705,William Donovan,Management,11,,,
+FDX00706,Barry Wiley,IT Support,13,,,
+FDX00707,Robert Stewart,Management,29,,,
+FDX00708,Felicia King,Human Resources,24,,,
+FDX00709,Ashley Vargas,IT Support,5,,,
+FDX00710,David Williams,IT Support,6,,,
+FDX00711,Kelli Silva,Logistics,11,1292.0,77.98092131469762,
+FDX00712,Sean Myers,Human Resources,23,,,
+FDX00713,Cynthia Fields,IT Support,17,,,
+FDX00714,Jessica King,Management,16,,,
+FDX00715,Paul Kidd,Human Resources,30,,,
+FDX00716,James Thompson,Management,14,,,
+FDX00717,Ronald Campbell,Management,30,,,
+FDX00718,Sara Clark,Management,11,,,
+FDX00719,Sheila Carpenter,IT Support,26,,,
+FDX00720,Jonathan Bradley,IT Support,15,,,
+FDX00721,Charlene Richardson,Management,16,,,
+FDX00722,Susan Maynard,IT Support,10,,,
+FDX00723,William Clayton,Human Resources,4,,,
+FDX00724,Jordan Murphy,Management,2,,,
+FDX00725,Juan Lane,Management,8,,,
+FDX00726,Angela Hawkins,IT Support,26,,,
+FDX00727,Crystal Savage,Logistics,25,5284.0,98.05368580994151,
+FDX00728,Karina Reilly,Logistics,26,6698.0,55.08998275273512,
+FDX00729,Mr. Terry Dorsey,Management,9,,,
+FDX00730,Felicia Brown,Logistics,29,5762.0,73.5575876310947,
+FDX00731,Elizabeth Leon,Customer Service,26,,,4.899217339267436
+FDX00732,Michael Francis,Customer Service,1,,,1.7946779962368242
+FDX00733,Elizabeth Stephens,IT Support,22,,,
+FDX00734,John Gardner,IT Support,5,,,
+FDX00735,Jeffrey Moore,Customer Service,23,,,1.1836398465191937
+FDX00736,Melissa Hardy,Logistics,14,9484.0,78.7017333621064,
+FDX00737,Maurice Bryan,Management,19,,,
+FDX00738,Lawrence Berg,Human Resources,21,,,
+FDX00739,Shelby Terry,Customer Service,22,,,2.013605682152469
+FDX00740,Tiffany Johnson,Management,21,,,
+FDX00741,Daniel Maynard,Customer Service,26,,,2.564834581822351
+FDX00742,Anne Lee,IT Support,5,,,
+FDX00743,Kelly Clark,Human Resources,24,,,
+FDX00744,Karen Guzman,IT Support,5,,,
+FDX00745,Brooke Burke,Human Resources,30,,,
+FDX00746,Ashley Golden,Management,15,,,
+FDX00747,Jasmine Cunningham,Customer Service,13,,,4.543189948250536
+FDX00748,Sharon Ibarra MD,Logistics,27,2913.0,77.32906348517697,
+FDX00749,Max Morse Jr.,Management,24,,,
+FDX00750,Mr. Robert Anderson DDS,Management,30,,,
+FDX00751,Jamie Roberts,IT Support,19,,,
+FDX00752,Andrew Shepard,Logistics,19,7866.0,81.14576962224075,
+FDX00753,Eric Black,Management,9,,,
+FDX00754,Gina Smith,Management,18,,,
+FDX00755,Mark Browning,Human Resources,7,,,
+FDX00756,William Fitzgerald,IT Support,24,,,
+FDX00757,Ian Duncan,Logistics,7,9511.0,71.88401913646828,
+FDX00758,Christopher Russell,Management,29,,,
+FDX00759,Rebecca Rose,Human Resources,23,,,
+FDX00760,Linda Hancock,Customer Service,15,,,1.4809936020557823
+FDX00761,Dr. Jennifer Riggs,IT Support,9,,,
+FDX00762,Brianna Burke,Customer Service,19,,,3.774264535164905
+FDX00763,Chad Johnson,Human Resources,16,,,
+FDX00764,April Neal,IT Support,26,,,
+FDX00765,Krista Bean,Management,4,,,
+FDX00766,Randy Franco,Customer Service,8,,,1.0957560477782589
+FDX00767,Rachel Davis,Customer Service,14,,,4.011591534431548
+FDX00768,Gregory Jackson,Customer Service,11,,,1.5951851052281905
+FDX00769,Bradley Myers,Human Resources,4,,,
+FDX00770,Joseph Greene,Logistics,10,5703.0,83.40781397882407,
+FDX00771,Mr. Derek Griffin,Human Resources,20,,,
+FDX00772,Fernando Francis,Logistics,15,534.0,69.17210789055146,
+FDX00773,Heather Martin,Human Resources,16,,,
+FDX00774,Joshua Romero,Logistics,1,5959.0,87.07069581930725,
+FDX00775,Joseph Mckenzie,IT Support,13,,,
+FDX00776,Anna Bennett,Customer Service,24,,,4.942939884300967
+FDX00777,Lori Lloyd,Logistics,22,8783.0,92.0210724381872,
+FDX00778,Jason Harrison,Customer Service,25,,,2.182059164679562
+FDX00779,Jennifer Taylor,Management,18,,,
+FDX00780,Jeffrey Wilson,Human Resources,6,,,
+FDX00781,Laura Smith,Management,21,,,
+FDX00782,Stephen Walton,Human Resources,29,,,
+FDX00783,Travis Fletcher,Human Resources,9,,,
+FDX00784,Caitlin White,Logistics,3,9730.0,74.00159372926686,
+FDX00785,Justin White,Management,6,,,
+FDX00786,Stephen Braun,Human Resources,29,,,
+FDX00787,Suzanne Mann,Logistics,1,1542.0,53.22682617601148,
+FDX00788,Jessica Lee,Logistics,14,8347.0,73.45871811810642,
+FDX00789,Jessica Juarez,Human Resources,29,,,
+FDX00790,Kathryn Rich,Customer Service,24,,,2.714969470541395
+FDX00791,Dana Calhoun,Logistics,5,8648.0,99.74736265799459,
+FDX00792,Mary Coleman,Management,7,,,
+FDX00793,Andrea Sparks,Logistics,7,28.0,84.8836277506467,
+FDX00794,Nicole Harris,Customer Service,9,,,2.929399597975143
+FDX00795,Kimberly Hernandez,Management,18,,,
+FDX00796,Maureen Ruiz,Logistics,21,1442.0,67.96267312621562,
+FDX00797,Tara Torres,Management,17,,,
+FDX00798,Crystal Stanley,IT Support,2,,,
+FDX00799,Jennifer Powell,IT Support,21,,,
+FDX00800,Matthew Erickson,Management,9,,,
+FDX00801,Jennifer Thompson,Management,23,,,
+FDX00802,Melissa White,Customer Service,8,,,1.8009274731307539
+FDX00803,Amanda Benton,IT Support,5,,,
+FDX00804,Martha Guzman,Logistics,13,3590.0,51.91860497969059,
+FDX00805,Mark Baxter,IT Support,3,,,
+FDX00806,Stephanie Smith,Management,27,,,
+FDX00807,Kurt Ayala,Management,4,,,
+FDX00808,Allison Johnson,Management,26,,,
+FDX00809,James Gibson,Human Resources,14,,,
+FDX00810,Julia Jennings,Customer Service,21,,,3.5019853131842607
+FDX00811,Mackenzie Lynn DDS,Logistics,18,6321.0,67.11961553642143,
+FDX00812,Bobby Little,Customer Service,21,,,4.551408297007306
+FDX00813,Tara Williams,Management,29,,,
+FDX00814,Kimberly Chambers,Management,15,,,
+FDX00815,Michael Meadows,Logistics,15,3094.0,97.68328761783346,
+FDX00816,Joseph Shah,Logistics,10,797.0,58.94709422002694,
+FDX00817,Christian Wood,Human Resources,29,,,
+FDX00818,Tony Lee,Customer Service,4,,,4.670956802614136
+FDX00819,Samuel Fleming,IT Support,5,,,
+FDX00820,Sherry Lynch,IT Support,27,,,
+FDX00821,Shannon Williams,Customer Service,21,,,3.5594381071557835
+FDX00822,Gary Roberts,Management,5,,,
+FDX00823,Kimberly Clark,Customer Service,12,,,2.69095964294034
+FDX00824,Sheri Gonzalez,Human Resources,10,,,
+FDX00825,Melissa Nelson,IT Support,15,,,
+FDX00826,Wanda Garza,Human Resources,4,,,
+FDX00827,Paula Knapp,Management,25,,,
+FDX00828,Holly Pacheco,IT Support,21,,,
+FDX00829,Donna Williams,Management,7,,,
+FDX00830,Michael Hicks,Human Resources,1,,,
+FDX00831,Angela Sutton,IT Support,20,,,
+FDX00832,David Chapman,IT Support,14,,,
+FDX00833,Kathleen Jones,Logistics,1,3104.0,81.56335777018813,
+FDX00834,Timothy Lewis,Human Resources,16,,,
+FDX00835,Matthew Collins,Customer Service,22,,,4.3933417512514925
+FDX00836,Nathaniel Douglas,Customer Service,29,,,4.268397798436491
+FDX00837,Kevin Perez,Management,19,,,
+FDX00838,Grace Shaffer,Customer Service,30,,,1.5138614083199937
+FDX00839,Michael Banks,Management,10,,,
+FDX00840,David Washington,Human Resources,23,,,
+FDX00841,Lauren Singh,Management,4,,,
+FDX00842,Mark Gonzalez,IT Support,5,,,
+FDX00843,Daniel Davis,Human Resources,18,,,
+FDX00844,Kenneth Calderon,Logistics,7,8653.0,76.4845321655437,
+FDX00845,Amanda Evans,Customer Service,17,,,3.2162160149126957
+FDX00846,Maureen Riley,IT Support,9,,,
+FDX00847,Mrs. Laura Hansen,Customer Service,18,,,3.346574490170488
+FDX00848,Jason Perry,Management,21,,,
+FDX00849,Laurie Howard,Logistics,29,6225.0,91.15886117613495,
+FDX00850,Andrea Strong,Logistics,26,4661.0,62.947558675584204,
+FDX00851,Jonathan Perkins,Logistics,17,6880.0,57.43576649507219,
+FDX00852,Manuel Montgomery,Customer Service,21,,,3.0450627664502963
+FDX00853,David Cross,Management,4,,,
+FDX00854,James Dean,Management,12,,,
+FDX00855,Willie Owens,Human Resources,5,,,
+FDX00856,William Day,IT Support,22,,,
+FDX00857,Michelle Jones,Management,16,,,
+FDX00858,Natalie Wheeler,Management,16,,,
+FDX00859,Elizabeth Shelton,Customer Service,30,,,3.8419835485489804
+FDX00860,Sabrina Davis,Management,25,,,
+FDX00861,Joel Robinson,Human Resources,2,,,
+FDX00862,Dawn Meza,Human Resources,16,,,
+FDX00863,Keith Mccoy,IT Support,12,,,
+FDX00864,Andrew Keller,Management,14,,,
+FDX00865,Justin Mcguire,IT Support,11,,,
+FDX00866,Haley Preston,Human Resources,5,,,
+FDX00867,Michael Patel,IT Support,14,,,
+FDX00868,Leonard Nguyen,Management,23,,,
+FDX00869,Nicole Flores,Human Resources,19,,,
+FDX00870,Emily Rodriguez,IT Support,24,,,
+FDX00871,Antonio Harris,Customer Service,16,,,1.529887576759367
+FDX00872,Robert Ashley,Customer Service,28,,,4.948420097557474
+FDX00873,Willie Blackburn,Logistics,5,3956.0,91.0281317555185,
+FDX00874,Randall May,Human Resources,21,,,
+FDX00875,Brittany Cole,Management,11,,,
+FDX00876,Beth Spencer,IT Support,14,,,
+FDX00877,Ivan Bell,Customer Service,2,,,3.2927885342341754
+FDX00878,Brandi Garcia,IT Support,28,,,
+FDX00879,Tracy Nelson,IT Support,6,,,
+FDX00880,Cathy Mcclain,Management,20,,,
+FDX00881,Brandon Lee,Customer Service,16,,,3.4784900755348995
+FDX00882,Robert Phelps,Human Resources,5,,,
+FDX00883,Gerald Rice,Management,16,,,
+FDX00884,Brendan Merritt,Human Resources,2,,,
+FDX00885,Holly Soto,Logistics,18,4943.0,66.98877436897874,
+FDX00886,Breanna Nelson,Customer Service,17,,,4.759962949276925
+FDX00887,Derek Johnson,Customer Service,19,,,3.1777729604063345
+FDX00888,Laura Tate,IT Support,12,,,
+FDX00889,Stephen King,IT Support,28,,,
+FDX00890,Jeffrey Matthews,Human Resources,23,,,
+FDX00891,Lauren Ramos,Logistics,26,761.0,89.84564860207993,
+FDX00892,Timothy Murray,IT Support,12,,,
+FDX00893,John Williamson,Logistics,14,1765.0,94.88666932684107,
+FDX00894,Michael Macias,Human Resources,1,,,
+FDX00895,Joseph Tapia,Customer Service,18,,,1.7729704512497264
+FDX00896,Theresa Callahan,Management,7,,,
+FDX00897,Victoria Le,Logistics,13,2793.0,61.09428692402169,
+FDX00898,Stacey Phillips,IT Support,6,,,
+FDX00899,Blake Jackson,Customer Service,13,,,3.5291867563688744
+FDX00900,Kimberly Bailey,Customer Service,6,,,2.9968102015506095
+FDX00901,Taylor Sherman MD,Customer Service,9,,,1.2683873010866278
+FDX00902,Stephanie Elliott,Human Resources,6,,,
+FDX00903,Travis Davis,IT Support,24,,,
+FDX00904,Alexandra Shea,Management,28,,,
+FDX00905,John Harding,Customer Service,13,,,3.853612940847337
+FDX00906,Steven Armstrong,Logistics,1,2330.0,83.5838588117393,
+FDX00907,Dr. Darlene Lee,Customer Service,2,,,2.107793371605283
+FDX00908,Jerry Cook,Customer Service,20,,,4.179171349564578
+FDX00909,Ronald Harper,Logistics,28,4242.0,89.77017797166062,
+FDX00910,Laura Ramos,Customer Service,26,,,2.199434200041343
+FDX00911,Abigail Grant,Human Resources,22,,,
+FDX00912,Claudia Lambert,Logistics,2,5398.0,60.6173314026088,
+FDX00913,Kelly Moore,Logistics,28,8504.0,68.54371918955236,
+FDX00914,Paul Hood,IT Support,28,,,
+FDX00915,Michael Brown,Human Resources,14,,,
+FDX00916,Cynthia Gonzalez,Management,21,,,
+FDX00917,Ashley Taylor,Human Resources,22,,,
+FDX00918,Monica Wyatt,Logistics,26,4583.0,54.72084072536293,
+FDX00919,Kim Martin,Human Resources,9,,,
+FDX00920,Chelsea Salinas,Management,1,,,
+FDX00921,Beth Hurst,Customer Service,28,,,2.899575832562918
+FDX00922,Mark King,Customer Service,2,,,3.387200811275596
+FDX00923,Chad Lewis,Customer Service,29,,,1.9239959135752147
+FDX00924,Laura Benson,Human Resources,23,,,
+FDX00925,Charlotte Clark,Management,13,,,
+FDX00926,Victoria Moore,Logistics,26,7381.0,79.64326123929527,
+FDX00927,Paul Johnson,Human Resources,30,,,
+FDX00928,Jill Morgan,Logistics,12,5779.0,80.10052591340718,
+FDX00929,Christopher Harrison,Human Resources,18,,,
+FDX00930,Erika Todd,Management,23,,,
+FDX00931,Joshua Arnold,IT Support,28,,,
+FDX00932,Paula Johnston,IT Support,11,,,
+FDX00933,Andrea Schaefer,Management,27,,,
+FDX00934,Marvin Gibson,Customer Service,1,,,1.104828765117834
+FDX00935,Brandon Bates,IT Support,27,,,
+FDX00936,Joshua Zavala,Logistics,6,9851.0,56.39861492026479,
+FDX00937,Daniel Curry,Management,1,,,
+FDX00938,Charles Cook,Customer Service,21,,,1.4948777221619567
+FDX00939,Christopher Sandoval,Management,5,,,
+FDX00940,Robin Miles,IT Support,22,,,
+FDX00941,Monica Jensen,Management,28,,,
+FDX00942,Benjamin Bennett,Customer Service,21,,,4.1939921952756
+FDX00943,Jodi Robertson,Customer Service,30,,,2.5717567979827125
+FDX00944,Jennifer Frank,Customer Service,21,,,3.045633768524926
+FDX00945,Pamela Hernandez,Customer Service,3,,,2.3861495342611008
+FDX00946,Jessica Elliott,Management,1,,,
+FDX00947,Patrick Erickson,Customer Service,30,,,3.4873473063257827
+FDX00948,Tracy Delgado,IT Support,26,,,
+FDX00949,David Page,Customer Service,4,,,3.507602141482869
+FDX00950,Angela Lawrence,Logistics,13,7699.0,53.81562137162923,
+FDX00951,Alexandra Williams,Management,17,,,
+FDX00952,Christopher Ryan,Management,4,,,
+FDX00953,Linda Brooks,Customer Service,4,,,4.994154280873992
+FDX00954,Stephanie Huber,IT Support,20,,,
+FDX00955,Matthew Carrillo,Customer Service,1,,,3.3037824428559426
+FDX00956,Anthony Russell,Human Resources,21,,,
+FDX00957,Chad Morales,IT Support,11,,,
+FDX00958,Kimberly Welch,Management,5,,,
+FDX00959,Theresa Bradley,Human Resources,19,,,
+FDX00960,Jennifer Cruz,Customer Service,20,,,2.0808022735316323
+FDX00961,Robert Davis,Customer Service,6,,,4.215340122661049
+FDX00962,Kimberly Klein,Logistics,20,5309.0,71.219647767397,
+FDX00963,Margaret Mathis,Logistics,30,3144.0,86.60191768087152,
+FDX00964,Michael Leon,Logistics,5,4216.0,56.25604334013945,
+FDX00965,Gabriella Hayes,IT Support,14,,,
+FDX00966,Kyle Johnson,Human Resources,19,,,
+FDX00967,Dorothy Hensley,IT Support,9,,,
+FDX00968,George Hubbard,Customer Service,7,,,2.4548349458851093
+FDX00969,Eric Nielsen,IT Support,8,,,
+FDX00970,Gloria Martinez,Customer Service,12,,,4.369419469291048
+FDX00971,Justin Harris,Human Resources,28,,,
+FDX00972,Gary Kelley,IT Support,28,,,
+FDX00973,Kyle Murray,Human Resources,12,,,
+FDX00974,Mrs. Megan Lam,Human Resources,4,,,
+FDX00975,Jack Greene,Customer Service,26,,,2.2653603473250787
+FDX00976,Eric Delgado,Logistics,25,1209.0,78.52812828084998,
+FDX00977,Shannon Hayes,Logistics,29,954.0,75.36312523255823,
+FDX00978,Frank Hernandez,Logistics,4,3082.0,78.90389242893356,
+FDX00979,Ricky Sims,IT Support,10,,,
+FDX00980,Anthony Rojas,Customer Service,22,,,4.383926947876669
+FDX00981,Christopher Roberts,IT Support,19,,,
+FDX00982,Michael Quinn,Logistics,21,5744.0,57.462367092942344,
+FDX00983,Eric Morales,Human Resources,7,,,
+FDX00984,Maria Oliver,Logistics,1,4382.0,65.02470675516052,
+FDX00985,Daniel Burton,Customer Service,20,,,3.3051990950678194
+FDX00986,Courtney Lyons,Customer Service,4,,,1.8246201187806843
+FDX00987,Allison Mitchell,Logistics,13,458.0,81.78509273863534,
+FDX00988,Rebecca Young,Logistics,13,5565.0,91.47399240007371,
+FDX00989,Tony Hudson,Customer Service,11,,,3.1552638350961337
+FDX00990,Rita Bender,IT Support,21,,,
+FDX00991,Monica Hawkins,Management,14,,,
+FDX00992,Kimberly Ferguson,Customer Service,25,,,4.110675490377471
+FDX00993,Charles Maxwell,IT Support,12,,,
+FDX00994,Bruce Gregory,IT Support,12,,,
+FDX00995,Sherry Rodriguez,Human Resources,7,,,
+FDX00996,Timothy Cox,Management,3,,,
+FDX00997,Anthony Fields,Logistics,29,2892.0,79.25091190405995,
+FDX00998,Timothy Finley,Human Resources,26,,,
+FDX00999,Anthony Hammond,IT Support,4,,,
+FDX01000,Dylan Bailey,Customer Service,20,,,1.2097004861726681
