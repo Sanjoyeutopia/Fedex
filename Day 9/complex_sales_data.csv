@@ -1,0 +1,501 @@
+TransactionID,Date,ProductID,ProductName,Quantity,UnitPrice,TotalSale,CustomerID,CustomerAge,CustomerGender,Region,City,SalesChannel,OrderPriority,Returns,ReturnReason,DeliveryTimeDays,DiscountRate,DiscountAmount,PaymentMethod,ProductCategory,ProductWeight,ShippingCost,WarehouseLocation,OrderStatus,FeedbackScore,ReviewComments
+1,2023-07-20,3,Product C,18,84.05,1512.8999999999999,CUST194,54,Other,East,City C,Offline,High,0,,13,0.06,5.042999999999999,Credit Card,Sports,1.04,8.15,Location A,Delivered,1,Poor quality
+2,2023-11-08,15,Product R,11,70.07,770.77,CUST068,59,Female,South,City A,Online,High,0,,1,0.24,16.816799999999997,Bank Transfer,Electronics,2.63,6.18,Location B,Delivered,1,Excellent
+3,2023-05-07,14,Product J,2,22.52,45.04,CUST161,34,Other,West,City C,Online,High,1,,8,0.07,1.5764,PayPal,Home & Kitchen,4.55,8.82,Location B,Pending,4,Excellent
+4,2023-10-19,11,Product G,18,41.43,745.74,CUST127,54,Other,North,City D,Offline,Low,0,,10,0.16,6.6288,PayPal,Sports,4.04,7.16,Location C,Pending,5,Satisfied
+5,2023-07-11,15,Product Q,7,94.52,661.64,CUST164,65,Other,West,City B,Offline,Low,1,,3,0.29,27.4108,Bank Transfer,Home & Kitchen,0.42,12.67,Location B,Cancelled,5,Excellent
+6,2023-11-24,13,Product N,15,31.21,468.15000000000003,CUST082,56,Female,North,City E,Online,Medium,1,Wrong item,8,0.04,1.2484,Debit Card,Sports,3.49,15.62,Location C,Cancelled,3,Excellent
+7,2023-05-04,18,Product C,11,44.49,489.39000000000004,CUST147,45,Male,North,City C,Online,Low,0,,12,0.28,12.457200000000002,PayPal,Sports,2.9,8.68,Location A,Delivered,3,Poor quality
+8,2023-08-24,6,Product L,18,49.88,897.84,CUST156,58,Other,Central,City D,Offline,Medium,0,,4,0.05,2.494,Debit Card,Electronics,4.55,14.18,Location C,Pending,5,Excellent
+9,2023-03-22,3,Product M,12,50.54,606.48,CUST168,52,Other,North,City D,Online,Low,0,,8,0.17,8.591800000000001,Debit Card,Clothing,0.7,10.35,Location B,Shipped,2,Satisfied
+10,2023-05-02,19,Product B,6,66.15,396.90000000000003,CUST084,64,Female,North,City B,Offline,High,0,,11,0.11,7.2765,PayPal,Sports,2.72,5.03,Location A,Delivered,4,
+11,2023-08-12,15,Product C,13,95.87,1246.31,CUST113,65,Other,East,City A,Offline,Low,0,,1,0.29,27.8023,Credit Card,Sports,4.41,11.97,Location B,Cancelled,4,Poor quality
+12,2023-06-02,5,Product E,16,32.65,522.4,CUST076,35,Male,West,City C,Online,Medium,0,,3,0.08,2.612,Debit Card,Electronics,2.11,9.66,Location C,Pending,2,Excellent
+13,2023-12-21,10,Product K,18,21.93,394.74,CUST122,31,Female,East,City D,Online,Low,0,Damaged,6,0.12,2.6315999999999997,PayPal,Clothing,2.46,11.45,Location A,Cancelled,2,Good product
+14,2023-01-12,7,Product H,10,28.76,287.6,CUST143,52,Male,North,City B,Offline,High,0,,9,0.29,8.3404,Debit Card,Books,0.45,14.56,Location A,Cancelled,5,Good product
+15,2023-10-22,17,Product L,8,90.81,726.48,CUST041,61,Male,Central,City E,Online,Medium,0,,2,0.16,14.5296,Bank Transfer,Books,1.46,8.72,Location C,Pending,3,Excellent
+16,2023-12-25,7,Product G,18,69.11,1243.98,CUST167,58,Female,East,City D,Offline,High,0,,11,0.15,10.3665,Credit Card,Clothing,1.69,14.71,Location C,Delivered,2,Satisfied
+17,2023-01-27,12,Product O,1,36.72,36.72,CUST002,24,Other,East,City B,Offline,High,0,,1,0.08,2.9375999999999998,Credit Card,Home & Kitchen,4.73,12.75,Location A,Pending,3,Poor quality
+18,2023-11-10,17,Product Q,8,84.43,675.44,CUST191,58,Male,South,City A,Offline,Medium,0,,10,0.21,17.7303,Bank Transfer,Electronics,1.49,9.34,Location A,Delivered,1,Good product
+19,2023-12-28,13,Product D,6,88.51,531.0600000000001,CUST029,30,Male,North,City A,Online,High,0,,3,0.0,0.0,Bank Transfer,Clothing,2.36,10.83,Location C,Cancelled,4,Not recommended
+20,2023-03-12,20,Product M,5,87.18,435.90000000000003,CUST105,35,Male,Central,City D,Offline,High,0,,4,0.01,0.8718000000000001,Debit Card,Books,3.39,7.22,Location B,Pending,5,Excellent
+21,2023-07-20,4,Product R,15,93.69,1405.35,CUST194,54,Male,East,City D,Offline,Low,0,Damaged,11,0.18,16.8642,Bank Transfer,Sports,0.89,15.78,Location A,Shipped,4,Good product
+22,2023-09-03,10,Product A,15,33.69,505.34999999999997,CUST051,30,Female,East,City C,Offline,High,0,,5,0.1,3.3689999999999998,Credit Card,Books,2.48,11.67,Location C,Delivered,5,Excellent
+23,2023-05-19,3,Product P,2,78.94,157.88,CUST075,53,Female,Central,City B,Offline,High,0,,3,0.29,22.892599999999998,Bank Transfer,Sports,3.72,3.56,Location B,Shipped,1,Not recommended
+24,2023-07-21,9,Product M,1,52.44,52.44,CUST010,48,Male,North,City D,Offline,High,0,,13,0.27,14.158800000000001,PayPal,Electronics,4.35,7.24,Location A,Delivered,4,Excellent
+25,2023-09-07,13,Product J,11,86.77,954.4699999999999,CUST142,19,Other,South,City C,Offline,High,0,,10,0.21,18.2217,PayPal,Sports,3.17,11.09,Location A,Pending,1,Satisfied
+26,2023-02-04,18,Product L,10,76.55,765.5,CUST051,33,Male,East,City C,Offline,Medium,0,,11,0.25,19.1375,Debit Card,Clothing,3.38,3.72,Location C,Shipped,5,Excellent
+27,2023-09-28,15,Product B,18,80.87,1455.66,CUST118,26,Other,South,City D,Offline,Low,0,,2,0.2,16.174000000000003,Credit Card,Sports,0.72,3.3,Location B,Pending,2,Satisfied
+28,2023-02-26,4,Product C,18,70.04,1260.72,CUST121,26,Male,West,City A,Offline,High,0,,2,0.04,2.8016,PayPal,Home & Kitchen,4.73,8.84,Location A,Delivered,4,Satisfied
+29,2023-09-26,15,Product J,17,26.96,458.32,CUST039,55,Other,North,City B,Offline,High,0,,7,0.23,6.2008,Bank Transfer,Clothing,0.75,7.31,Location B,Delivered,1,Satisfied
+30,2023-05-02,2,Product B,8,60.04,480.32,CUST028,28,Male,West,City B,Offline,Medium,0,,9,0.06,3.6024,PayPal,Electronics,3.9,8.69,Location B,Delivered,4,Excellent
+31,2023-04-28,15,Product M,15,99.61,1494.15,CUST003,39,Other,West,City A,Online,High,0,,10,0.1,9.961,PayPal,Clothing,1.4,6.41,Location A,Delivered,4,Good product
+32,2023-12-07,8,Product M,8,95.35,762.8,CUST084,50,Male,West,City D,Offline,Medium,1,,2,0.25,23.8375,Debit Card,Home & Kitchen,4.67,5.13,Location B,Cancelled,4,
+33,2023-12-08,8,Product R,17,14.88,252.96,CUST198,53,Male,North,City B,Offline,Low,0,,7,0.16,2.3808000000000002,Bank Transfer,Electronics,3.63,11.95,Location A,Delivered,3,Satisfied
+34,2023-03-14,17,Product C,12,25.82,309.84000000000003,CUST155,62,Other,North,City D,Offline,Low,0,,7,0.26,6.7132000000000005,Bank Transfer,Books,3.79,9.68,Location B,Shipped,1,Satisfied
+35,2023-01-04,12,Product G,8,22.85,182.8,CUST117,40,Female,Central,City D,Online,High,0,,11,0.06,1.371,Bank Transfer,Home & Kitchen,1.17,5.59,Location A,Delivered,1,Poor quality
+36,2023-02-08,19,Product N,14,76.33,1068.62,CUST002,62,Other,South,City C,Offline,High,0,,7,0.18,13.7394,Debit Card,Electronics,2.27,7.14,Location C,Pending,4,Satisfied
+37,2023-04-02,10,Product T,4,84.59,338.36,CUST093,62,Female,South,City A,Online,High,0,,3,0.03,2.5377,Bank Transfer,Sports,3.13,10.68,Location A,Cancelled,2,Poor quality
+38,2023-06-22,9,Product Q,1,30.21,30.21,CUST166,51,Male,Central,City D,Offline,Medium,0,,12,0.19,5.7399000000000004,Bank Transfer,Clothing,3.87,3.93,Location A,Shipped,4,Satisfied
+39,2023-10-04,5,Product L,1,56.52,56.52,CUST131,26,Other,Central,City E,Offline,High,0,,7,0.23,12.999600000000001,PayPal,Electronics,0.61,4.91,Location A,Cancelled,3,Good product
+40,2023-06-18,6,Product P,19,86.65,1646.3500000000001,CUST144,41,Other,West,City A,Online,High,0,,1,0.18,15.597000000000001,PayPal,Clothing,4.82,3.94,Location B,Cancelled,5,Satisfied
+41,2023-10-12,20,Product L,16,76.94,1231.04,CUST094,25,Other,Central,City B,Offline,Low,0,,10,0.08,6.1552,Bank Transfer,Sports,4.46,13.55,Location C,Cancelled,3,Satisfied
+42,2023-02-10,2,Product O,14,59.79,837.06,CUST040,24,Female,East,City C,Online,High,0,,1,0.01,0.5979,Credit Card,Electronics,1.42,12.77,Location B,Pending,2,Good product
+43,2023-04-14,13,Product J,16,64.12,1025.92,CUST002,53,Female,South,City B,Online,Low,0,,5,0.04,2.5648000000000004,Credit Card,Books,4.13,12.78,Location B,Cancelled,4,Excellent
+44,2023-08-14,6,Product G,5,56.74,283.7,CUST081,35,Male,Central,City B,Offline,High,0,,2,0.19,10.7806,Bank Transfer,Home & Kitchen,2.64,12.3,Location A,Cancelled,1,Excellent
+45,2023-07-28,5,Product T,9,37.77,339.93,CUST169,20,Female,East,City A,Offline,Low,0,,9,0.28,10.575600000000001,Credit Card,Electronics,2.36,11.69,Location B,Delivered,4,Excellent
+46,2023-09-08,1,Product E,2,61.84,123.68,CUST012,45,Female,East,City B,Offline,High,0,,7,0.06,3.7104,Debit Card,Sports,1.64,9.19,Location A,Pending,2,Poor quality
+47,2023-05-16,6,Product A,18,72.99,1313.82,CUST163,23,Male,East,City D,Offline,Low,0,Damaged,4,0.22,16.0578,PayPal,Electronics,2.95,11.34,Location C,Shipped,1,Excellent
+48,2023-02-15,6,Product Q,6,89.59,537.54,CUST065,61,Other,East,City B,Online,Medium,0,,4,0.26,23.293400000000002,Debit Card,Clothing,3.68,3.49,Location B,Shipped,3,
+49,2023-05-24,16,Product C,9,68.26,614.34,CUST055,61,Other,West,City C,Online,Low,0,,2,0.16,10.921600000000002,PayPal,Electronics,2.11,11.07,Location B,Shipped,5,Good product
+50,2023-10-25,4,Product M,1,79.49,79.49,CUST045,38,Male,East,City C,Offline,Low,0,Not as described,5,0.2,15.898,Credit Card,Books,3.18,13.1,Location B,Pending,5,Good product
+51,2023-12-28,11,Product N,9,25.4,228.6,CUST101,45,Other,West,City E,Online,Low,0,,4,0.24,6.095999999999999,Credit Card,Electronics,3.53,9.49,Location A,Shipped,4,Good product
+52,2023-12-13,9,Product R,16,52.53,840.48,CUST062,57,Female,West,City C,Online,High,0,,12,0.08,4.2024,Bank Transfer,Home & Kitchen,3.58,7.64,Location A,Pending,3,Good product
+53,2023-09-15,3,Product D,13,11.83,153.79,CUST049,18,Male,East,City B,Offline,High,0,,13,0.09,1.0647,Credit Card,Electronics,0.35,6.6,Location B,Delivered,2,Good product
+54,2023-01-25,19,Product R,9,33.19,298.71,CUST127,53,Male,South,City C,Online,High,0,,1,0.0,0.0,Credit Card,Clothing,4.31,11.35,Location B,Delivered,5,Excellent
+55,2023-07-09,8,Product E,13,76.37,992.8100000000001,CUST153,38,Male,East,City A,Online,Medium,0,,12,0.29,22.1473,Bank Transfer,Electronics,2.35,12.0,Location C,Pending,3,Poor quality
+56,2023-08-01,5,Product P,9,100.25,902.25,CUST023,60,Other,East,City C,Offline,Medium,0,,8,0.28,28.070000000000004,Bank Transfer,Books,1.39,14.31,Location C,Shipped,4,
+57,2023-12-08,4,Product A,11,19.92,219.12,CUST152,52,Male,East,City D,Online,Low,0,,3,0.23,4.581600000000001,PayPal,Sports,1.28,7.44,Location C,Pending,1,Satisfied
+58,2023-08-11,6,Product N,4,47.12,188.48,CUST038,30,Male,South,City A,Offline,Medium,0,,14,0.02,0.9424,Credit Card,Electronics,2.47,13.0,Location C,Pending,4,Satisfied
+59,2023-03-17,2,Product O,2,83.0,166.0,CUST028,66,Male,North,City E,Online,Low,0,,6,0.13,10.790000000000001,PayPal,Electronics,4.45,10.29,Location C,Cancelled,4,
+60,2023-08-03,20,Product I,6,29.35,176.10000000000002,CUST021,27,Other,North,City D,Offline,Low,0,,4,0.03,0.8805000000000001,PayPal,Home & Kitchen,1.95,14.47,Location A,Pending,3,Not recommended
+61,2023-03-01,11,Product O,14,60.95,853.3000000000001,CUST182,61,Female,West,City B,Online,Low,1,,9,0.0,0.0,Debit Card,Books,3.77,9.85,Location C,Cancelled,5,Poor quality
+62,2023-11-05,4,Product Q,4,76.97,307.88,CUST107,64,Male,West,City B,Online,Medium,0,,7,0.18,13.8546,Credit Card,Sports,0.57,9.72,Location C,Delivered,3,Excellent
+63,2023-10-07,15,Product D,6,66.43,398.58000000000004,CUST146,27,Female,South,City B,Offline,High,0,,9,0.29,19.2647,Credit Card,Clothing,2.43,10.5,Location B,Cancelled,1,Not recommended
+64,2023-10-09,6,Product L,19,27.91,530.29,CUST164,63,Other,Central,City D,Offline,Medium,0,,10,0.27,7.5357,Debit Card,Electronics,4.96,12.73,Location A,Pending,3,Poor quality
+65,2023-12-07,17,Product E,6,42.97,257.82,CUST099,30,Other,North,City D,Offline,Low,0,,3,0.21,9.0237,PayPal,Sports,3.88,15.53,Location C,Delivered,2,Satisfied
+66,2023-09-08,6,Product E,2,81.53,163.06,CUST173,54,Other,West,City D,Offline,Low,0,,1,0.03,2.4459,Credit Card,Clothing,1.13,3.95,Location C,Cancelled,4,Not recommended
+67,2023-12-02,19,Product K,18,60.87,1095.6599999999999,CUST119,55,Other,North,City A,Online,Medium,0,,5,0.08,4.8696,PayPal,Books,2.56,3.68,Location C,Pending,5,Poor quality
+68,2023-01-16,2,Product F,13,11.46,148.98000000000002,CUST073,41,Female,South,City A,Online,Low,0,,3,0.1,1.1460000000000001,Debit Card,Books,1.24,15.18,Location B,Delivered,1,Good product
+69,2023-07-23,15,Product G,9,79.48,715.32,CUST181,19,Male,South,City B,Online,Low,0,,6,0.23,18.2804,Bank Transfer,Sports,2.11,9.88,Location B,Cancelled,4,Poor quality
+70,2023-08-05,11,Product N,19,14.17,269.23,CUST122,39,Other,Central,City C,Offline,Medium,0,,8,0.24,3.4008,PayPal,Clothing,3.92,10.98,Location B,Pending,3,Satisfied
+71,2023-03-12,8,Product K,13,78.11,1015.43,CUST030,34,Other,Central,City B,Online,Medium,0,,11,0.12,9.373199999999999,Credit Card,Books,3.88,9.26,Location C,Pending,2,Not recommended
+72,2023-08-22,19,Product M,11,29.21,321.31,CUST188,53,Female,South,City E,Online,Medium,0,,13,0.13,3.7973000000000003,Bank Transfer,Sports,1.22,4.21,Location B,Shipped,3,Good product
+73,2023-11-03,13,Product B,1,97.22,97.22,CUST108,31,Female,West,City A,Offline,Low,0,,4,0.01,0.9722000000000001,PayPal,Books,4.62,12.98,Location C,Shipped,4,Not recommended
+74,2023-01-03,12,Product G,7,44.1,308.7,CUST098,27,Other,North,City D,Offline,Low,0,,5,0.09,3.969,PayPal,Books,3.0,12.7,Location A,Cancelled,1,Poor quality
+75,2023-05-15,5,Product T,15,40.41,606.15,CUST032,52,Male,East,City A,Online,High,0,,5,0.14,5.6574,Bank Transfer,Books,1.96,7.04,Location C,Cancelled,5,Satisfied
+76,2023-03-01,6,Product D,1,24.39,24.39,CUST195,42,Male,Central,City D,Offline,High,0,Damaged,4,0.04,0.9756,Bank Transfer,Home & Kitchen,2.56,6.97,Location B,Cancelled,4,Good product
+77,2023-05-26,4,Product H,12,38.49,461.88,CUST195,20,Other,East,City E,Online,Medium,0,,4,0.14,5.388600000000001,Bank Transfer,Clothing,3.06,13.88,Location A,Pending,1,Excellent
+78,2023-07-14,19,Product T,7,89.89,629.23,CUST156,64,Female,West,City E,Online,High,0,,4,0.26,23.3714,Credit Card,Sports,2.84,3.93,Location C,Cancelled,4,
+79,2023-07-27,20,Product S,15,100.66,1509.8999999999999,CUST172,55,Other,Central,City A,Offline,Low,0,,4,0.17,17.1122,Credit Card,Sports,2.48,14.44,Location A,Pending,2,Satisfied
+80,2023-09-15,1,Product M,19,44.14,838.66,CUST079,34,Other,East,City D,Online,High,0,,4,0.02,0.8828,PayPal,Clothing,2.57,6.33,Location A,Cancelled,3,Satisfied
+81,2023-10-10,20,Product N,1,51.36,51.36,CUST041,29,Female,West,City E,Offline,Low,0,Not as described,5,0.06,3.0816,PayPal,Clothing,0.96,10.7,Location A,Pending,5,Excellent
+82,2023-12-13,17,Product J,17,75.98,1291.66,CUST063,69,Other,North,City B,Offline,Medium,0,,2,0.14,10.637200000000002,Debit Card,Clothing,4.08,15.16,Location C,Pending,1,Excellent
+83,2023-03-07,12,Product K,17,90.75,1542.75,CUST023,41,Other,West,City B,Online,Medium,0,,2,0.11,9.9825,Credit Card,Clothing,2.75,11.81,Location B,Shipped,5,Good product
+84,2023-01-20,15,Product B,3,64.36,193.07999999999998,CUST104,46,Other,Central,City D,Online,Low,0,,9,0.11,7.0796,PayPal,Electronics,0.74,8.38,Location C,Delivered,5,Excellent
+85,2023-04-05,1,Product I,12,46.23,554.76,CUST075,60,Female,South,City A,Online,High,0,,2,0.16,7.3968,Bank Transfer,Sports,3.85,11.95,Location B,Pending,5,Excellent
+86,2023-07-07,14,Product Q,6,48.13,288.78000000000003,CUST048,42,Male,North,City E,Offline,Medium,0,,6,0.18,8.6634,Bank Transfer,Electronics,4.67,7.46,Location C,Cancelled,1,Satisfied
+87,2023-11-04,6,Product C,11,73.6,809.5999999999999,CUST160,53,Male,East,City A,Online,Medium,0,,2,0.24,17.663999999999998,Credit Card,Books,4.74,6.59,Location C,Shipped,1,Poor quality
+88,2023-07-27,5,Product F,3,11.28,33.839999999999996,CUST057,43,Female,Central,City B,Offline,High,0,,5,0.1,1.128,Bank Transfer,Books,1.91,15.95,Location C,Cancelled,5,Satisfied
+89,2023-03-22,11,Product E,8,66.75,534.0,CUST118,55,Male,South,City E,Offline,High,0,,4,0.24,16.02,Debit Card,Sports,0.76,12.75,Location B,Cancelled,3,Excellent
+90,2023-12-02,4,Product E,14,42.98,601.7199999999999,CUST100,18,Other,West,City A,Online,Low,1,,12,0.1,4.298,PayPal,Books,2.64,11.37,Location C,Pending,4,Excellent
+91,2023-10-13,13,Product O,14,82.47,1154.58,CUST124,37,Male,South,City C,Offline,High,0,,7,0.02,1.6494,PayPal,Clothing,0.65,7.61,Location A,Pending,5,Poor quality
+92,2023-09-21,11,Product Q,10,19.36,193.6,CUST161,45,Other,Central,City D,Online,High,0,,7,0.17,3.2912000000000003,PayPal,Electronics,4.68,3.63,Location C,Delivered,2,Satisfied
+93,2023-06-28,3,Product I,2,63.93,127.86,CUST152,33,Male,Central,City D,Online,High,1,,13,0.18,11.507399999999999,Credit Card,Clothing,1.0,3.39,Location A,Pending,5,Satisfied
+94,2023-12-12,1,Product C,14,54.28,759.9200000000001,CUST167,64,Female,South,City C,Online,Low,0,Damaged,6,0.28,15.198400000000001,Bank Transfer,Books,1.34,10.19,Location B,Pending,1,Not recommended
+95,2023-12-20,6,Product T,9,68.8,619.1999999999999,CUST034,34,Male,West,City B,Online,Low,1,Not as described,10,0.22,15.136,Debit Card,Electronics,2.09,12.9,Location B,Delivered,4,Poor quality
+96,2023-11-26,18,Product Q,3,16.83,50.489999999999995,CUST184,57,Male,South,City E,Online,Medium,1,,5,0.28,4.7124,Credit Card,Clothing,1.98,9.98,Location C,Cancelled,2,Poor quality
+97,2023-07-28,10,Product J,8,63.19,505.52,CUST156,45,Male,Central,City D,Online,Low,0,,1,0.27,17.0613,PayPal,Sports,3.99,13.92,Location C,Delivered,4,Poor quality
+98,2023-09-07,5,Product C,16,61.52,984.32,CUST165,29,Female,Central,City C,Online,Medium,0,Damaged,12,0.18,11.0736,Debit Card,Clothing,2.34,3.42,Location C,Delivered,4,Satisfied
+99,2023-01-01,10,Product R,2,61.45,122.9,CUST007,44,Male,East,City C,Offline,High,0,,3,0.16,9.832,PayPal,Books,0.94,7.76,Location A,Delivered,2,Satisfied
+100,2023-09-27,12,Product R,6,65.3,391.79999999999995,CUST196,59,Female,East,City B,Online,Medium,0,,9,0.17,11.101,PayPal,Electronics,1.41,6.07,Location B,Shipped,5,Good product
+101,2023-09-20,2,Product Q,12,71.87,862.44,CUST165,64,Other,North,City B,Offline,Medium,0,Not as described,14,0.29,20.8423,Credit Card,Sports,2.59,8.8,Location A,Cancelled,5,Good product
+102,2023-09-03,13,Product C,5,83.44,417.2,CUST056,47,Male,Central,City A,Offline,High,0,,1,0.23,19.191200000000002,PayPal,Electronics,0.82,3.93,Location A,Shipped,5,Excellent
+103,2023-07-06,8,Product C,2,35.27,70.54,CUST065,58,Female,East,City D,Offline,Medium,0,,5,0.03,1.0581,Debit Card,Sports,3.1,15.39,Location C,Shipped,3,Satisfied
+104,2023-08-27,2,Product F,16,85.24,1363.84,CUST193,51,Female,South,City A,Online,Low,0,,2,0.23,19.6052,PayPal,Electronics,2.87,5.89,Location C,Pending,5,Good product
+105,2023-09-05,20,Product M,5,55.83,279.15,CUST047,54,Male,West,City C,Offline,Low,1,,4,0.05,2.7915,Bank Transfer,Books,3.6,14.98,Location A,Delivered,2,Excellent
+106,2023-01-19,1,Product O,15,17.93,268.95,CUST148,23,Other,South,City E,Offline,Low,0,,14,0.13,2.3309,PayPal,Sports,4.69,8.53,Location A,Delivered,3,Good product
+107,2023-10-12,5,Product I,12,16.26,195.12,CUST019,24,Female,West,City E,Online,Low,0,,14,0.06,0.9756,Credit Card,Home & Kitchen,4.57,15.8,Location C,Shipped,5,Excellent
+108,2023-08-15,9,Product D,4,41.07,164.28,CUST157,49,Male,East,City B,Online,Medium,0,,11,0.21,8.624699999999999,Debit Card,Electronics,4.74,10.19,Location C,Pending,3,Satisfied
+109,2023-11-22,17,Product N,15,81.63,1224.4499999999998,CUST188,49,Other,North,City E,Offline,Medium,0,,1,0.26,21.2238,Credit Card,Electronics,1.3,15.09,Location A,Pending,2,Good product
+110,2023-08-09,9,Product E,11,74.68,821.48,CUST146,42,Female,South,City E,Online,High,0,,3,0.09,6.7212000000000005,Bank Transfer,Clothing,0.74,3.06,Location C,Pending,5,Satisfied
+111,2023-04-17,11,Product B,16,81.97,1311.52,CUST163,50,Female,South,City E,Online,Medium,0,Not as described,10,0.02,1.6394,PayPal,Sports,1.58,12.72,Location C,Cancelled,1,Good product
+112,2023-01-26,15,Product K,6,57.54,345.24,CUST171,24,Other,South,City C,Online,Medium,1,Damaged,7,0.09,5.178599999999999,Credit Card,Home & Kitchen,4.49,14.73,Location A,Shipped,2,Not recommended
+113,2023-04-12,6,Product I,14,50.61,708.54,CUST126,69,Other,West,City E,Online,Medium,0,Damaged,10,0.2,10.122,Credit Card,Books,4.86,4.81,Location A,Cancelled,4,Poor quality
+114,2023-07-02,3,Product C,18,24.26,436.68,CUST139,29,Male,East,City E,Offline,High,0,,3,0.1,2.426,Credit Card,Clothing,4.31,4.24,Location B,Pending,4,Good product
+115,2023-03-17,17,Product I,12,40.53,486.36,CUST049,33,Male,South,City E,Online,Low,0,,4,0.08,3.2424,Credit Card,Home & Kitchen,0.64,8.51,Location A,Pending,2,Satisfied
+116,2023-05-17,5,Product C,11,50.05,550.55,CUST113,33,Female,South,City A,Online,Medium,1,,2,0.06,3.0029999999999997,Bank Transfer,Sports,4.74,15.13,Location C,Pending,4,Satisfied
+117,2023-08-17,12,Product B,13,18.96,246.48000000000002,CUST038,60,Other,North,City C,Online,High,0,,3,0.15,2.844,Bank Transfer,Home & Kitchen,2.17,10.04,Location A,Delivered,2,Good product
+118,2023-11-17,18,Product L,11,30.85,339.35,CUST064,53,Other,North,City B,Offline,High,0,,9,0.08,2.468,PayPal,Electronics,0.15,9.85,Location A,Shipped,1,Satisfied
+119,2023-02-02,14,Product J,16,64.83,1037.28,CUST069,30,Other,East,City A,Offline,High,0,,3,0.22,14.262599999999999,PayPal,Electronics,2.27,4.82,Location A,Delivered,2,Poor quality
+120,2023-12-22,11,Product I,15,77.2,1158.0,CUST136,24,Female,East,City D,Online,Low,0,,11,0.02,1.544,Debit Card,Clothing,0.33,3.0,Location B,Cancelled,5,Not recommended
+121,2023-07-05,9,Product O,15,100.84,1512.6000000000001,CUST162,53,Other,Central,City C,Online,Medium,0,,5,0.2,20.168000000000003,Bank Transfer,Sports,2.77,13.52,Location B,Delivered,5,Satisfied
+122,2023-01-01,2,Product H,4,94.97,379.88,CUST176,64,Other,North,City C,Offline,High,0,,2,0.07,6.647900000000001,Credit Card,Sports,1.76,4.13,Location C,Shipped,3,Excellent
+123,2023-03-02,12,Product E,11,68.82,757.02,CUST116,68,Female,Central,City D,Online,Low,0,,4,0.15,10.322999999999999,Credit Card,Home & Kitchen,2.42,11.23,Location B,Delivered,4,Not recommended
+124,2023-05-12,3,Product K,19,48.9,929.1,CUST184,26,Male,West,City D,Online,High,0,,12,0.09,4.401,Debit Card,Clothing,3.1,14.88,Location A,Pending,4,Satisfied
+125,2023-10-06,3,Product B,15,68.25,1023.75,CUST065,49,Male,Central,City D,Offline,High,0,,13,0.22,15.015,Credit Card,Sports,4.36,5.7,Location B,Cancelled,2,Not recommended
+126,2023-07-04,1,Product O,4,81.7,326.8,CUST031,28,Female,South,City B,Online,High,0,,7,0.28,22.876,Debit Card,Electronics,3.34,11.64,Location A,Cancelled,4,Excellent
+127,2023-07-11,8,Product F,13,21.64,281.32,CUST132,25,Other,Central,City E,Online,High,0,,14,0.28,6.059200000000001,PayPal,Home & Kitchen,2.23,4.01,Location B,Pending,5,Satisfied
+128,2023-08-27,8,Product H,19,47.88,909.72,CUST113,50,Female,East,City C,Offline,High,0,,7,0.18,8.6184,Bank Transfer,Books,4.12,10.84,Location B,Pending,1,
+129,2023-01-06,11,Product E,2,86.57,173.14,CUST109,40,Male,West,City E,Offline,Low,0,,12,0.14,12.1198,Debit Card,Electronics,4.54,5.12,Location B,Pending,2,Satisfied
+130,2023-08-05,9,Product P,14,45.53,637.4200000000001,CUST178,42,Male,South,City E,Online,Medium,0,,3,0.25,11.3825,Credit Card,Clothing,0.69,12.56,Location A,Shipped,4,Satisfied
+131,2023-04-02,5,Product R,4,62.46,249.84,CUST069,25,Female,Central,City D,Offline,Medium,0,Not as described,5,0.2,12.492,Debit Card,Sports,2.71,6.91,Location B,Delivered,5,Excellent
+132,2023-06-22,14,Product F,16,63.89,1022.24,CUST158,62,Female,West,City B,Online,Medium,0,,1,0.06,3.8333999999999997,PayPal,Electronics,1.49,9.01,Location A,Cancelled,3,Satisfied
+133,2023-11-16,3,Product E,14,27.59,386.26,CUST120,39,Male,West,City A,Online,Medium,0,Not as described,10,0.25,6.8975,Credit Card,Books,0.33,10.78,Location A,Delivered,4,Satisfied
+134,2023-01-09,5,Product P,15,43.59,653.85,CUST088,21,Female,South,City B,Online,Low,0,,10,0.13,5.6667000000000005,PayPal,Books,3.38,5.22,Location C,Pending,1,Good product
+135,2023-12-27,5,Product M,3,41.1,123.30000000000001,CUST187,57,Male,Central,City E,Offline,Low,0,,10,0.06,2.466,PayPal,Clothing,4.33,12.63,Location B,Pending,1,Excellent
+136,2023-06-16,19,Product E,8,13.35,106.8,CUST067,20,Female,West,City B,Offline,Low,0,,11,0.08,1.068,Debit Card,Electronics,0.9,6.92,Location C,Delivered,4,Excellent
+137,2023-03-20,14,Product M,16,13.17,210.72,CUST075,46,Female,West,City D,Online,High,1,,1,0.08,1.0536,PayPal,Home & Kitchen,4.08,11.6,Location C,Cancelled,4,Excellent
+138,2023-12-27,4,Product Q,10,85.84,858.4000000000001,CUST045,58,Female,North,City A,Online,High,0,,5,0.16,13.7344,Credit Card,Electronics,4.28,5.05,Location A,Shipped,5,
+139,2023-04-19,13,Product R,4,35.57,142.28,CUST004,46,Male,West,City D,Offline,High,0,,13,0.07,2.4899000000000004,PayPal,Books,4.58,11.94,Location B,Delivered,4,Satisfied
+140,2023-10-03,10,Product H,18,57.62,1037.1599999999999,CUST154,51,Female,North,City A,Offline,Medium,0,,10,0.04,2.3047999999999997,PayPal,Clothing,1.4,4.66,Location A,Pending,3,Satisfied
+141,2023-03-20,18,Product M,2,37.88,75.76,CUST155,51,Male,Central,City E,Offline,High,1,,9,0.04,1.5152,Debit Card,Clothing,4.53,8.52,Location A,Pending,5,Excellent
+142,2023-07-20,8,Product S,17,95.65,1626.0500000000002,CUST174,45,Male,Central,City A,Online,Medium,0,,1,0.17,16.2605,PayPal,Home & Kitchen,1.67,6.2,Location B,Shipped,2,Excellent
+143,2023-09-01,8,Product C,13,34.33,446.28999999999996,CUST107,30,Female,Central,City A,Offline,High,0,,1,0.22,7.5526,Bank Transfer,Clothing,2.81,12.72,Location A,Delivered,3,Satisfied
+144,2023-08-07,7,Product H,4,49.66,198.64,CUST192,32,Female,East,City A,Offline,Medium,0,,4,0.1,4.966,Debit Card,Clothing,0.35,6.4,Location B,Shipped,5,Good product
+145,2023-02-08,8,Product B,11,89.54,984.94,CUST051,40,Male,Central,City B,Online,High,0,,4,0.01,0.8954000000000001,Debit Card,Clothing,0.32,14.45,Location B,Shipped,5,Not recommended
+146,2023-01-11,14,Product H,7,86.76,607.32,CUST050,61,Male,West,City B,Online,High,0,,2,0.04,3.4704,Credit Card,Clothing,3.63,14.58,Location A,Cancelled,1,
+147,2023-12-25,19,Product M,12,27.74,332.88,CUST006,43,Other,South,City E,Online,Low,0,,9,0.27,7.4898,Credit Card,Clothing,2.28,5.54,Location A,Cancelled,5,Excellent
+148,2023-09-18,6,Product M,10,83.23,832.3000000000001,CUST059,21,Male,North,City A,Offline,High,0,Not as described,14,0.15,12.4845,Credit Card,Books,1.36,10.97,Location C,Pending,3,Satisfied
+149,2023-07-10,1,Product A,7,52.23,365.60999999999996,CUST125,43,Other,East,City C,Online,High,0,Not as described,9,0.14,7.312200000000001,Credit Card,Electronics,1.03,4.13,Location A,Delivered,4,
+150,2023-03-07,15,Product F,13,54.46,707.98,CUST143,57,Other,Central,City E,Online,Low,0,,13,0.01,0.5446,Bank Transfer,Sports,3.38,8.08,Location B,Cancelled,3,Not recommended
+151,2023-12-16,1,Product S,7,23.0,161.0,CUST030,26,Other,Central,City A,Online,Medium,0,,13,0.22,5.06,Debit Card,Clothing,0.1,12.26,Location C,Pending,2,Poor quality
+152,2023-10-16,17,Product P,17,18.24,310.08,CUST170,22,Female,South,City A,Online,Low,0,,2,0.16,2.9183999999999997,PayPal,Sports,4.05,11.56,Location B,Delivered,5,Not recommended
+153,2023-09-20,1,Product H,10,76.5,765.0,CUST122,49,Female,South,City B,Offline,Low,0,,14,0.06,4.59,Credit Card,Sports,0.49,11.11,Location C,Pending,5,Not recommended
+154,2023-12-17,15,Product A,10,55.67,556.7,CUST125,37,Male,East,City E,Online,Medium,0,,9,0.03,1.6701,Credit Card,Books,1.04,6.66,Location A,Cancelled,5,
+155,2023-02-01,2,Product P,4,50.31,201.24,CUST037,67,Other,North,City A,Offline,High,0,,6,0.12,6.0372,Credit Card,Clothing,1.99,7.9,Location A,Pending,5,Not recommended
+156,2023-12-05,14,Product I,4,76.65,306.6,CUST170,28,Female,Central,City A,Offline,Medium,0,,8,0.25,19.1625,PayPal,Sports,2.48,4.33,Location A,Delivered,1,Excellent
+157,2023-05-27,8,Product M,7,79.89,559.23,CUST124,32,Female,East,City E,Offline,High,1,,10,0.26,20.7714,Credit Card,Clothing,1.84,12.34,Location B,Delivered,1,Excellent
+158,2023-07-09,8,Product K,1,25.29,25.29,CUST101,49,Female,West,City C,Online,High,0,,13,0.18,4.5522,PayPal,Home & Kitchen,1.67,9.54,Location C,Pending,4,Poor quality
+159,2023-09-03,19,Product M,12,65.91,790.92,CUST035,45,Female,West,City E,Offline,Medium,0,,13,0.22,14.5002,Debit Card,Home & Kitchen,4.82,12.2,Location B,Delivered,5,Excellent
+160,2023-03-16,7,Product J,13,23.17,301.21000000000004,CUST087,39,Female,East,City E,Online,Low,1,,4,0.03,0.6951,Debit Card,Home & Kitchen,3.24,6.23,Location C,Pending,2,Excellent
+161,2023-03-20,19,Product D,10,78.61,786.1,CUST134,58,Other,Central,City C,Online,Medium,0,,2,0.18,14.149799999999999,Debit Card,Sports,0.21,7.21,Location A,Delivered,4,
+162,2023-08-22,6,Product F,15,70.12,1051.8000000000002,CUST196,34,Other,East,City E,Online,High,0,,2,0.2,14.024000000000001,Bank Transfer,Home & Kitchen,2.21,7.33,Location B,Pending,5,Poor quality
+163,2023-08-01,6,Product G,13,97.09,1262.17,CUST018,43,Other,Central,City A,Offline,Medium,0,,9,0.06,5.8254,PayPal,Books,4.39,3.32,Location A,Pending,1,Excellent
+164,2023-08-20,3,Product E,9,17.2,154.79999999999998,CUST113,61,Other,South,City E,Online,Medium,0,,1,0.26,4.4719999999999995,Credit Card,Books,1.58,7.42,Location B,Pending,2,Satisfied
+165,2023-11-17,7,Product K,9,16.12,145.08,CUST029,24,Male,East,City C,Online,High,0,Damaged,12,0.06,0.9672000000000001,Credit Card,Sports,0.56,13.43,Location A,Shipped,4,Excellent
+166,2023-08-04,19,Product M,15,36.39,545.85,CUST077,59,Other,Central,City D,Online,Low,0,,7,0.09,3.2751,Credit Card,Clothing,3.82,14.65,Location B,Delivered,2,Excellent
+167,2023-06-08,8,Product S,10,34.54,345.4,CUST059,43,Female,East,City E,Offline,Medium,0,,11,0.19,6.5626,Credit Card,Electronics,3.07,9.73,Location B,Cancelled,5,Good product
+168,2023-04-03,10,Product J,10,33.22,332.2,CUST175,42,Other,East,City B,Offline,High,0,,14,0.19,6.3118,Bank Transfer,Clothing,2.89,8.91,Location C,Pending,3,Poor quality
+169,2023-09-03,20,Product J,8,92.55,740.4,CUST126,27,Male,Central,City A,Offline,High,0,,3,0.21,19.435499999999998,Credit Card,Clothing,0.36,3.39,Location A,Shipped,2,Good product
+170,2023-09-18,15,Product K,16,33.45,535.2,CUST145,62,Female,Central,City A,Online,Medium,0,,3,0.03,1.0035,Bank Transfer,Clothing,0.79,14.42,Location C,Cancelled,2,Good product
+171,2023-02-02,15,Product G,17,35.47,602.99,CUST109,36,Other,North,City B,Offline,Low,0,,2,0.25,8.8675,PayPal,Clothing,3.15,3.16,Location C,Pending,1,Excellent
+172,2023-06-03,1,Product R,5,79.34,396.70000000000005,CUST022,28,Other,East,City B,Online,Medium,0,,14,0.16,12.694400000000002,Debit Card,Electronics,1.12,15.27,Location A,Cancelled,5,Satisfied
+173,2023-09-04,20,Product D,4,51.47,205.88,CUST068,30,Other,West,City E,Online,Low,0,,10,0.14,7.205800000000001,Credit Card,Home & Kitchen,2.57,9.35,Location B,Shipped,2,Satisfied
+174,2023-01-04,7,Product B,18,80.89,1456.02,CUST069,25,Female,East,City B,Offline,Low,0,Wrong item,6,0.29,23.458099999999998,Debit Card,Clothing,2.77,7.44,Location C,Cancelled,5,Good product
+175,2023-01-14,4,Product N,19,16.87,320.53000000000003,CUST165,57,Female,East,City D,Online,Low,0,Not as described,13,0.22,3.7114000000000003,PayPal,Books,1.49,15.0,Location A,Pending,1,Good product
+176,2023-05-16,6,Product M,4,54.87,219.48,CUST049,21,Male,Central,City C,Offline,Low,0,,10,0.04,2.1948,PayPal,Sports,4.75,3.31,Location B,Cancelled,5,Excellent
+177,2023-04-24,1,Product L,7,14.02,98.14,CUST141,64,Female,East,City B,Online,Medium,0,Not as described,2,0.23,3.2246,Credit Card,Sports,4.23,10.55,Location C,Cancelled,1,Poor quality
+178,2023-08-07,5,Product G,10,16.63,166.29999999999998,CUST162,48,Female,East,City B,Offline,High,0,,10,0.03,0.49889999999999995,PayPal,Books,3.64,10.13,Location C,Pending,1,Not recommended
+179,2023-03-17,1,Product B,18,92.57,1666.2599999999998,CUST109,45,Other,West,City D,Online,High,0,Not as described,4,0.01,0.9257,Debit Card,Clothing,0.48,5.84,Location C,Shipped,4,Satisfied
+180,2023-01-16,4,Product M,19,23.52,446.88,CUST086,28,Female,Central,City A,Online,High,1,,10,0.12,2.8224,Credit Card,Electronics,0.62,8.57,Location B,Shipped,5,Satisfied
+181,2023-12-27,2,Product N,4,58.91,235.64,CUST053,60,Other,East,City A,Online,High,0,,9,0.3,17.673,Bank Transfer,Home & Kitchen,2.51,11.47,Location C,Cancelled,3,Satisfied
+182,2023-03-22,10,Product Q,10,47.99,479.90000000000003,CUST123,18,Other,South,City E,Online,High,0,,9,0.05,2.3995,Credit Card,Sports,0.89,12.44,Location B,Delivered,4,Excellent
+183,2023-07-22,5,Product I,1,42.25,42.25,CUST087,66,Female,North,City D,Online,High,0,Wrong item,6,0.2,8.450000000000001,Debit Card,Home & Kitchen,4.89,3.0,Location C,Cancelled,1,Excellent
+184,2023-06-06,10,Product Q,18,91.98,1655.64,CUST179,64,Male,West,City C,Offline,Medium,1,,13,0.05,4.599,Credit Card,Electronics,0.88,15.17,Location A,Delivered,3,
+185,2023-03-22,1,Product H,5,12.95,64.75,CUST131,69,Male,East,City C,Online,Low,0,,4,0.22,2.8489999999999998,Credit Card,Sports,2.49,5.13,Location C,Cancelled,2,Excellent
+186,2023-08-27,6,Product B,15,70.73,1060.95,CUST042,55,Female,South,City D,Offline,High,0,,7,0.15,10.6095,Debit Card,Home & Kitchen,1.88,6.03,Location A,Shipped,2,Poor quality
+187,2023-11-02,13,Product M,17,97.7,1660.9,CUST098,41,Male,East,City C,Offline,Medium,0,,14,0.2,19.540000000000003,Credit Card,Electronics,3.23,6.42,Location A,Cancelled,4,Excellent
+188,2023-05-01,15,Product C,3,61.41,184.23,CUST160,64,Other,East,City A,Offline,High,0,Damaged,1,0.06,3.6845999999999997,Credit Card,Home & Kitchen,0.73,3.48,Location A,Cancelled,3,
+189,2023-12-15,4,Product P,12,95.3,1143.6,CUST109,48,Other,Central,City C,Online,High,0,,12,0.22,20.966,Debit Card,Clothing,2.21,4.59,Location B,Delivered,5,Satisfied
+190,2023-01-05,13,Product F,2,15.69,31.38,CUST051,58,Female,Central,City C,Online,Low,0,Damaged,4,0.3,4.707,PayPal,Electronics,1.45,15.81,Location A,Shipped,3,Satisfied
+191,2023-12-16,20,Product S,1,48.68,48.68,CUST085,63,Male,Central,City D,Online,Low,1,,5,0.2,9.736,Debit Card,Home & Kitchen,4.45,7.09,Location C,Delivered,4,Excellent
+192,2023-03-04,15,Product G,17,34.4,584.8,CUST174,67,Male,South,City D,Offline,Low,0,Damaged,8,0.15,5.159999999999999,Credit Card,Clothing,0.3,4.49,Location B,Cancelled,5,Poor quality
+193,2023-03-17,8,Product J,16,76.76,1228.16,CUST127,43,Other,East,City C,Online,High,0,,12,0.28,21.492800000000003,Bank Transfer,Clothing,4.58,4.38,Location A,Pending,5,
+194,2023-01-12,5,Product I,5,99.31,496.55,CUST021,66,Female,North,City B,Online,High,1,,2,0.0,0.0,Bank Transfer,Electronics,4.18,12.34,Location B,Cancelled,2,Poor quality
+195,2023-12-14,15,Product B,15,34.08,511.2,CUST044,67,Male,West,City D,Offline,High,0,,12,0.22,7.497599999999999,Debit Card,Books,1.56,14.1,Location B,Cancelled,3,Good product
+196,2023-05-06,4,Product O,3,69.87,209.61,CUST139,22,Female,Central,City E,Offline,Low,0,,5,0.27,18.864900000000002,Bank Transfer,Sports,3.97,6.33,Location B,Delivered,5,
+197,2023-03-28,12,Product E,7,28.82,201.74,CUST103,37,Male,Central,City E,Offline,Medium,0,,6,0.02,0.5764,Credit Card,Electronics,0.25,3.26,Location C,Pending,4,Not recommended
+198,2023-09-05,13,Product D,11,61.87,680.5699999999999,CUST068,69,Other,East,City A,Offline,High,0,,5,0.14,8.661800000000001,Credit Card,Clothing,4.84,5.89,Location A,Pending,2,Good product
+199,2023-08-17,2,Product T,10,52.74,527.4,CUST129,58,Other,East,City C,Offline,High,0,,13,0.06,3.1644,Debit Card,Clothing,2.68,3.72,Location B,Delivered,5,
+200,2023-05-03,19,Product D,9,98.47,886.23,CUST092,28,Female,South,City B,Offline,High,0,,9,0.17,16.739900000000002,Credit Card,Electronics,1.59,4.33,Location B,Shipped,3,Satisfied
+201,2023-12-01,19,Product R,14,65.76,920.6400000000001,CUST191,50,Other,South,City A,Online,Medium,0,,10,0.19,12.4944,PayPal,Books,1.88,8.6,Location B,Pending,2,Satisfied
+202,2023-04-21,4,Product D,13,42.45,551.85,CUST024,67,Male,Central,City C,Offline,High,0,,1,0.09,3.8205,Credit Card,Sports,0.43,5.98,Location A,Pending,3,
+203,2023-07-01,4,Product Q,2,21.26,42.52,CUST125,55,Other,East,City D,Online,Medium,0,,14,0.14,2.9764000000000004,Debit Card,Home & Kitchen,4.95,9.7,Location B,Delivered,3,Poor quality
+204,2023-03-18,11,Product L,3,24.6,73.80000000000001,CUST141,44,Female,North,City E,Online,High,0,,3,0.08,1.9680000000000002,PayPal,Electronics,0.29,6.29,Location B,Shipped,3,Good product
+205,2023-09-10,5,Product Q,7,31.27,218.89,CUST111,51,Female,West,City B,Online,Medium,0,,14,0.11,3.4396999999999998,PayPal,Sports,3.31,15.22,Location C,Shipped,2,Satisfied
+206,2023-06-26,20,Product J,18,33.58,604.4399999999999,CUST098,32,Female,East,City E,Offline,High,0,Not as described,2,0.05,1.679,Bank Transfer,Sports,2.27,14.77,Location A,Cancelled,5,Excellent
+207,2023-03-08,11,Product A,3,87.55,262.65,CUST139,49,Male,East,City D,Online,Low,0,,12,0.27,23.6385,Credit Card,Clothing,4.75,10.36,Location C,Cancelled,1,Good product
+208,2023-08-18,10,Product R,10,61.5,615.0,CUST179,38,Male,South,City C,Offline,Low,0,,13,0.0,0.0,Debit Card,Home & Kitchen,1.31,7.6,Location A,Delivered,5,Excellent
+209,2023-06-23,8,Product R,7,58.1,406.7,CUST017,63,Male,West,City D,Offline,Low,0,,3,0.26,15.106000000000002,Bank Transfer,Electronics,2.71,7.94,Location A,Shipped,2,Excellent
+210,2023-02-27,6,Product N,9,21.32,191.88,CUST099,22,Male,Central,City D,Online,Low,0,,10,0.17,3.6244000000000005,Bank Transfer,Clothing,2.46,8.34,Location A,Delivered,1,Satisfied
+211,2023-10-02,6,Product O,17,88.4,1502.8000000000002,CUST082,23,Male,East,City E,Offline,High,0,,9,0.1,8.840000000000002,Credit Card,Clothing,3.54,12.45,Location C,Cancelled,1,Excellent
+212,2023-10-17,8,Product L,11,76.04,836.44,CUST104,55,Other,Central,City B,Online,Low,0,,13,0.22,16.728800000000003,Credit Card,Books,0.43,8.86,Location C,Delivered,1,Not recommended
+213,2023-08-01,15,Product D,7,17.08,119.55999999999999,CUST152,39,Male,East,City D,Online,Medium,0,,14,0.15,2.562,Debit Card,Sports,1.05,14.13,Location C,Delivered,4,Poor quality
+214,2023-09-11,14,Product C,14,74.7,1045.8,CUST019,35,Male,Central,City E,Offline,Low,0,,9,0.15,11.205,Bank Transfer,Electronics,1.15,15.26,Location C,Pending,2,Satisfied
+215,2023-06-16,11,Product T,19,59.91,1138.29,CUST165,31,Other,West,City B,Online,Low,0,,10,0.03,1.7973,Debit Card,Electronics,3.72,7.36,Location B,Pending,4,Satisfied
+216,2023-07-10,12,Product L,4,18.35,73.4,CUST085,27,Male,South,City C,Online,Low,0,,2,0.12,2.202,Bank Transfer,Electronics,1.03,10.28,Location B,Pending,1,Excellent
+217,2023-07-26,13,Product G,6,52.24,313.44,CUST008,63,Female,West,City C,Online,High,0,,14,0.07,3.6568000000000005,Bank Transfer,Clothing,2.91,4.23,Location B,Cancelled,4,Not recommended
+218,2023-03-18,8,Product K,10,54.61,546.1,CUST028,30,Male,North,City A,Offline,Low,0,,3,0.0,0.0,Bank Transfer,Books,1.15,5.6,Location A,Delivered,4,Satisfied
+219,2023-09-24,18,Product A,7,25.91,181.37,CUST005,48,Male,South,City E,Online,Medium,0,,14,0.11,2.8501,Credit Card,Home & Kitchen,4.32,8.37,Location B,Pending,2,Satisfied
+220,2023-12-26,1,Product F,13,96.1,1249.3,CUST145,47,Female,West,City B,Offline,Low,0,,4,0.03,2.8829999999999996,Bank Transfer,Clothing,4.72,5.67,Location A,Pending,3,Satisfied
+221,2023-07-25,15,Product O,14,87.49,1224.86,CUST101,20,Female,North,City D,Offline,Low,0,,9,0.08,6.9992,Bank Transfer,Home & Kitchen,2.64,14.39,Location C,Pending,4,Excellent
+222,2023-04-13,8,Product O,4,71.2,284.8,CUST164,47,Female,East,City C,Online,Low,0,,3,0.03,2.136,Bank Transfer,Books,1.83,5.05,Location A,Cancelled,4,Satisfied
+223,2023-04-01,11,Product S,8,52.6,420.8,CUST118,23,Female,East,City B,Online,Medium,0,,13,0.03,1.578,PayPal,Sports,1.25,8.91,Location A,Cancelled,1,Not recommended
+224,2023-08-14,12,Product K,5,48.05,240.25,CUST147,46,Male,Central,City E,Offline,Low,0,,7,0.06,2.8829999999999996,Credit Card,Electronics,0.34,10.86,Location B,Delivered,1,Satisfied
+225,2023-12-19,12,Product B,1,69.58,69.58,CUST064,25,Female,South,City A,Offline,Medium,0,,12,0.3,20.874,PayPal,Home & Kitchen,1.42,11.98,Location C,Delivered,1,Excellent
+226,2023-07-15,4,Product N,4,60.08,240.32,CUST091,61,Female,East,City C,Online,Medium,0,,3,0.0,0.0,Credit Card,Clothing,3.31,7.97,Location C,Delivered,5,Poor quality
+227,2023-12-02,16,Product B,3,16.59,49.769999999999996,CUST117,62,Other,South,City B,Online,Low,0,,7,0.19,3.1521,Debit Card,Home & Kitchen,2.71,14.29,Location B,Pending,4,Excellent
+228,2023-02-23,4,Product D,9,57.12,514.0799999999999,CUST098,60,Female,East,City B,Offline,Medium,0,,7,0.04,2.2848,PayPal,Sports,4.73,10.38,Location C,Shipped,1,Good product
+229,2023-06-19,5,Product Q,8,83.57,668.56,CUST011,61,Female,Central,City B,Offline,High,0,,9,0.28,23.3996,Debit Card,Electronics,2.04,8.7,Location C,Cancelled,2,Excellent
+230,2023-09-26,5,Product C,1,52.32,52.32,CUST054,50,Other,West,City E,Offline,Low,0,,2,0.03,1.5695999999999999,Bank Transfer,Home & Kitchen,3.5,3.86,Location C,Pending,5,Good product
+231,2023-06-26,8,Product M,6,15.67,94.02,CUST173,34,Other,Central,City E,Offline,Low,0,,13,0.29,4.5443,Debit Card,Sports,2.5,9.03,Location B,Pending,3,Good product
+232,2023-10-22,10,Product I,9,81.76,735.84,CUST047,65,Male,North,City E,Offline,Medium,0,,6,0.18,14.716800000000001,Debit Card,Clothing,2.61,13.66,Location C,Delivered,4,Poor quality
+233,2023-01-20,17,Product G,7,29.11,203.76999999999998,CUST140,28,Other,East,City D,Online,Medium,0,,9,0.0,0.0,Debit Card,Books,1.41,10.98,Location A,Delivered,4,Excellent
+234,2023-10-06,9,Product O,4,34.27,137.08,CUST149,30,Male,North,City B,Offline,Low,0,,12,0.27,9.252900000000002,Debit Card,Clothing,2.33,13.81,Location A,Pending,2,Good product
+235,2023-06-11,19,Product K,13,25.81,335.53,CUST139,67,Other,North,City C,Offline,High,0,,12,0.16,4.1296,Credit Card,Electronics,2.41,9.41,Location C,Cancelled,3,Good product
+236,2023-12-05,14,Product T,17,40.71,692.07,CUST005,28,Other,South,City E,Online,Medium,0,Damaged,2,0.08,3.2568,PayPal,Clothing,3.56,4.53,Location B,Cancelled,3,Not recommended
+237,2023-01-08,8,Product B,2,79.1,158.2,CUST184,48,Male,East,City E,Online,Medium,0,,2,0.23,18.192999999999998,Credit Card,Clothing,4.71,3.17,Location B,Pending,5,Not recommended
+238,2023-05-28,9,Product O,5,57.73,288.65,CUST020,45,Other,North,City B,Offline,High,0,,13,0.28,16.1644,Credit Card,Clothing,1.71,6.93,Location B,Shipped,4,Satisfied
+239,2023-12-12,11,Product N,12,29.43,353.15999999999997,CUST169,61,Male,West,City E,Offline,High,0,Damaged,14,0.15,4.414499999999999,Credit Card,Clothing,0.31,12.06,Location C,Shipped,1,Excellent
+240,2023-05-07,1,Product T,8,89.99,719.92,CUST046,23,Other,North,City D,Online,Low,0,,5,0.09,8.0991,Debit Card,Electronics,2.53,13.26,Location C,Cancelled,2,Satisfied
+241,2023-04-06,14,Product K,6,90.15,540.9000000000001,CUST012,58,Female,West,City D,Offline,High,0,,10,0.24,21.636,Credit Card,Sports,2.77,6.83,Location A,Delivered,2,Excellent
+242,2023-04-15,5,Product C,8,89.34,714.72,CUST070,33,Other,South,City E,Offline,Low,0,,10,0.2,17.868000000000002,PayPal,Home & Kitchen,0.93,9.43,Location B,Shipped,2,Not recommended
+243,2023-03-23,14,Product Q,18,32.48,584.64,CUST017,21,Male,North,City B,Online,High,0,,12,0.27,8.7696,Credit Card,Books,3.83,8.46,Location A,Shipped,2,Good product
+244,2023-08-20,4,Product L,3,51.6,154.8,CUST115,52,Other,Central,City B,Offline,Medium,0,,10,0.21,10.836,Bank Transfer,Home & Kitchen,4.93,8.33,Location A,Delivered,1,Excellent
+245,2023-02-28,1,Product O,12,99.64,1195.68,CUST147,65,Male,South,City B,Online,Low,0,,8,0.07,6.974800000000001,Debit Card,Home & Kitchen,4.73,6.0,Location B,Shipped,1,Poor quality
+246,2023-10-19,19,Product P,3,80.47,241.41,CUST154,43,Male,West,City A,Online,Low,0,,11,0.28,22.5316,Bank Transfer,Books,1.07,4.76,Location C,Pending,5,Excellent
+247,2023-01-24,8,Product E,6,13.44,80.64,CUST048,29,Female,South,City E,Online,Low,0,Damaged,9,0.03,0.40319999999999995,PayPal,Electronics,4.39,5.55,Location C,Shipped,4,Excellent
+248,2023-03-28,15,Product T,2,16.86,33.72,CUST108,28,Female,North,City B,Online,High,0,,2,0.08,1.3488,PayPal,Books,3.55,3.71,Location A,Delivered,1,
+249,2023-10-23,15,Product F,12,52.74,632.88,CUST052,54,Male,East,City D,Offline,Medium,0,,5,0.16,8.4384,PayPal,Electronics,2.32,5.57,Location A,Pending,5,Good product
+250,2023-10-05,9,Product S,2,92.82,185.64,CUST096,42,Other,East,City C,Online,Low,0,,14,0.17,15.7794,PayPal,Home & Kitchen,2.75,3.11,Location A,Shipped,3,Good product
+251,2023-10-21,9,Product E,6,59.47,356.82,CUST070,35,Male,West,City C,Offline,Low,0,Damaged,7,0.0,0.0,Credit Card,Electronics,4.26,11.14,Location A,Cancelled,4,Good product
+252,2023-07-09,10,Product C,17,55.79,948.43,CUST183,36,Male,West,City B,Offline,Low,0,,6,0.23,12.8317,Debit Card,Sports,2.45,7.1,Location B,Pending,1,
+253,2023-12-21,20,Product A,3,20.48,61.44,CUST102,40,Other,East,City C,Offline,Low,0,,6,0.11,2.2528,PayPal,Books,1.93,15.64,Location A,Pending,3,Excellent
+254,2023-01-26,9,Product F,2,70.1,140.2,CUST075,55,Other,West,City C,Offline,Medium,1,,7,0.12,8.411999999999999,Bank Transfer,Sports,2.52,5.51,Location A,Cancelled,5,Excellent
+255,2023-10-01,3,Product O,8,84.98,679.84,CUST161,35,Other,South,City A,Offline,High,0,,3,0.24,20.3952,PayPal,Home & Kitchen,2.94,7.49,Location C,Cancelled,1,Good product
+256,2023-02-22,20,Product B,12,45.23,542.76,CUST190,43,Other,Central,City D,Online,Medium,0,,13,0.11,4.9753,Debit Card,Books,1.03,7.64,Location C,Shipped,1,Not recommended
+257,2023-09-08,11,Product C,4,80.8,323.2,CUST151,23,Male,Central,City D,Online,Low,0,,3,0.01,0.8079999999999999,Bank Transfer,Home & Kitchen,4.51,3.1,Location C,Shipped,3,Not recommended
+258,2023-05-01,6,Product Q,5,97.79,488.95000000000005,CUST143,21,Male,South,City A,Online,Medium,0,,10,0.05,4.889500000000001,Bank Transfer,Sports,3.4,13.9,Location B,Delivered,1,Excellent
+259,2023-07-05,2,Product L,13,29.33,381.28999999999996,CUST155,61,Female,Central,City A,Online,Low,0,,9,0.29,8.5057,Bank Transfer,Home & Kitchen,3.2,3.41,Location B,Delivered,2,Satisfied
+260,2023-06-23,7,Product R,15,58.09,871.35,CUST192,68,Male,North,City C,Offline,High,0,,14,0.02,1.1618000000000002,Credit Card,Books,0.59,15.21,Location C,Pending,1,Good product
+261,2023-03-12,18,Product O,16,36.83,589.28,CUST179,46,Other,South,City E,Online,High,0,,8,0.11,4.0512999999999995,PayPal,Books,3.06,14.59,Location C,Cancelled,4,Excellent
+262,2023-10-16,2,Product L,10,82.35,823.5,CUST181,51,Female,West,City C,Offline,High,1,,5,0.15,12.3525,Credit Card,Home & Kitchen,0.69,9.95,Location A,Cancelled,3,Excellent
+263,2023-03-05,17,Product P,16,62.97,1007.52,CUST082,34,Other,South,City A,Offline,Low,0,Not as described,6,0.15,9.4455,Bank Transfer,Books,0.49,10.06,Location A,Delivered,4,Good product
+264,2023-06-25,11,Product H,12,68.1,817.1999999999999,CUST092,60,Male,East,City D,Online,Medium,0,,11,0.0,0.0,Credit Card,Books,2.68,11.49,Location B,Pending,5,Excellent
+265,2023-12-05,12,Product N,17,82.8,1407.6,CUST179,60,Female,West,City C,Online,High,0,,12,0.15,12.42,Credit Card,Home & Kitchen,2.07,8.02,Location B,Pending,4,Satisfied
+266,2023-01-14,19,Product Q,16,46.63,746.08,CUST175,33,Other,East,City E,Online,Low,0,,10,0.12,5.5956,Credit Card,Sports,2.99,11.4,Location A,Delivered,2,Excellent
+267,2023-04-05,7,Product H,12,93.35,1120.1999999999998,CUST004,19,Female,West,City C,Online,Low,0,,1,0.29,27.071499999999997,PayPal,Books,0.54,3.57,Location C,Delivered,2,Poor quality
+268,2023-12-16,20,Product O,8,58.96,471.68,CUST135,51,Female,Central,City B,Offline,Medium,0,Wrong item,10,0.05,2.9480000000000004,Bank Transfer,Books,2.21,3.69,Location A,Delivered,4,Good product
+269,2023-10-26,6,Product N,3,25.21,75.63,CUST109,25,Male,South,City C,Offline,High,0,,12,0.11,2.7731,Bank Transfer,Books,0.96,8.93,Location B,Shipped,5,Poor quality
+270,2023-05-07,1,Product R,16,73.62,1177.92,CUST163,30,Other,North,City A,Online,Low,0,,1,0.13,9.5706,PayPal,Books,4.94,10.14,Location B,Pending,1,Satisfied
+271,2023-04-01,17,Product T,13,82.38,1070.94,CUST048,59,Female,West,City D,Offline,Medium,0,,4,0.12,9.885599999999998,Credit Card,Home & Kitchen,2.85,14.53,Location A,Pending,2,Good product
+272,2023-05-23,11,Product G,19,39.5,750.5,CUST073,25,Female,West,City D,Offline,High,0,,2,0.2,7.9,Credit Card,Sports,3.47,4.35,Location A,Pending,4,Not recommended
+273,2023-10-10,18,Product C,8,88.14,705.12,CUST072,47,Other,East,City A,Offline,Medium,0,Damaged,11,0.06,5.2884,Debit Card,Sports,1.69,13.68,Location A,Delivered,4,Good product
+274,2023-06-05,17,Product L,5,92.54,462.70000000000005,CUST116,49,Female,Central,City B,Online,Medium,0,,7,0.07,6.477800000000001,Debit Card,Electronics,0.56,5.72,Location B,Delivered,4,Satisfied
+275,2023-04-02,7,Product C,8,35.91,287.28,CUST173,53,Female,East,City A,Offline,Low,0,,2,0.22,7.900199999999999,Debit Card,Books,4.88,8.11,Location C,Delivered,1,Good product
+276,2023-04-10,17,Product T,12,99.51,1194.1200000000001,CUST081,64,Female,East,City C,Online,Low,0,,10,0.15,14.9265,PayPal,Books,1.5,7.11,Location A,Delivered,3,Good product
+277,2023-10-19,20,Product N,1,23.65,23.65,CUST081,47,Other,Central,City A,Online,Low,0,,2,0.12,2.8379999999999996,Bank Transfer,Electronics,2.18,8.19,Location B,Cancelled,5,Satisfied
+278,2023-10-01,9,Product O,6,29.17,175.02,CUST113,18,Other,North,City A,Offline,Medium,0,,5,0.05,1.4585000000000001,Debit Card,Sports,3.28,4.95,Location B,Delivered,3,Good product
+279,2023-08-05,17,Product N,18,27.57,496.26,CUST096,60,Other,East,City B,Offline,Low,0,,4,0.06,1.6542,Bank Transfer,Clothing,0.22,9.54,Location B,Shipped,5,Excellent
+280,2023-04-16,20,Product G,8,91.45,731.6,CUST072,56,Other,East,City C,Online,Medium,0,,8,0.0,0.0,Bank Transfer,Clothing,4.07,13.41,Location A,Cancelled,5,Good product
+281,2023-08-16,8,Product Q,7,69.88,489.15999999999997,CUST147,34,Male,West,City E,Offline,Medium,0,,4,0.03,2.0963999999999996,Bank Transfer,Sports,2.73,8.73,Location A,Cancelled,4,Excellent
+282,2023-07-02,17,Product L,1,24.68,24.68,CUST063,37,Female,Central,City E,Offline,Low,0,,14,0.17,4.195600000000001,PayPal,Books,1.46,9.37,Location C,Delivered,2,Good product
+283,2023-01-28,7,Product T,16,50.62,809.92,CUST038,41,Other,South,City D,Online,High,0,,12,0.27,13.6674,PayPal,Clothing,0.4,14.02,Location B,Pending,4,Good product
+284,2023-11-20,1,Product D,12,66.37,796.44,CUST067,67,Female,North,City A,Online,High,0,,6,0.09,5.9733,PayPal,Home & Kitchen,0.9,12.17,Location A,Delivered,1,Satisfied
+285,2023-08-12,13,Product I,6,18.5,111.0,CUST187,39,Female,North,City D,Online,High,0,Wrong item,5,0.1,1.85,PayPal,Home & Kitchen,4.49,9.37,Location B,Pending,5,Not recommended
+286,2023-02-03,19,Product F,2,90.41,180.82,CUST069,46,Male,Central,City B,Online,Medium,0,,11,0.03,2.7123,Debit Card,Electronics,3.46,6.34,Location B,Delivered,2,Excellent
+287,2023-12-01,19,Product P,14,83.31,1166.3400000000001,CUST013,39,Other,West,City E,Offline,Medium,0,Damaged,14,0.12,9.9972,Credit Card,Sports,1.32,14.49,Location C,Delivered,5,Excellent
+288,2023-01-19,17,Product B,4,56.46,225.84,CUST175,61,Other,West,City A,Offline,Medium,0,,2,0.01,0.5646,Credit Card,Sports,0.42,10.49,Location A,Pending,5,Good product
+289,2023-11-05,13,Product H,1,98.03,98.03,CUST189,26,Female,Central,City B,Online,Low,0,,11,0.28,27.448400000000003,Credit Card,Clothing,3.48,5.86,Location A,Pending,4,Not recommended
+290,2023-12-03,16,Product K,18,48.59,874.6200000000001,CUST031,54,Other,West,City B,Online,Medium,1,,13,0.2,9.718000000000002,Debit Card,Books,2.9,6.49,Location B,Pending,2,Good product
+291,2023-01-01,8,Product M,13,99.56,1294.28,CUST114,27,Female,North,City A,Online,Low,0,,12,0.3,29.868,Credit Card,Sports,2.08,13.43,Location B,Pending,2,Satisfied
+292,2023-08-10,19,Product Q,2,71.1,142.2,CUST022,53,Female,North,City B,Offline,Low,0,,14,0.26,18.486,Debit Card,Clothing,1.88,3.56,Location C,Shipped,5,Excellent
+293,2023-11-12,18,Product H,9,68.11,612.99,CUST093,54,Male,South,City A,Online,High,0,,8,0.14,9.535400000000001,Debit Card,Clothing,1.16,15.89,Location C,Pending,2,Satisfied
+294,2023-12-14,1,Product R,2,25.93,51.86,CUST171,45,Male,Central,City A,Offline,High,0,,2,0.16,4.1488,Debit Card,Sports,3.38,4.68,Location C,Delivered,2,
+295,2023-02-19,14,Product R,9,90.36,813.24,CUST067,45,Male,East,City C,Online,High,0,,9,0.06,5.4216,Credit Card,Clothing,4.86,13.34,Location C,Delivered,4,Good product
+296,2023-02-03,19,Product N,1,49.46,49.46,CUST054,59,Female,East,City D,Online,Low,0,,9,0.14,6.924400000000001,Bank Transfer,Electronics,0.96,8.12,Location C,Shipped,3,
+297,2023-07-17,15,Product O,11,25.59,281.49,CUST138,60,Other,South,City B,Online,Low,0,,3,0.27,6.9093,Credit Card,Electronics,3.03,9.39,Location C,Pending,1,Excellent
+298,2023-10-08,18,Product F,3,12.12,36.36,CUST042,38,Male,South,City B,Offline,Low,0,,4,0.02,0.24239999999999998,Credit Card,Sports,2.18,14.44,Location B,Delivered,3,Excellent
+299,2023-10-10,2,Product K,4,61.37,245.48,CUST064,41,Other,West,City C,Offline,Medium,0,,8,0.26,15.956199999999999,PayPal,Books,2.29,8.36,Location C,Shipped,2,Good product
+300,2023-10-02,17,Product M,18,58.46,1052.28,CUST126,59,Male,South,City C,Offline,Low,0,,9,0.1,5.846,Debit Card,Electronics,1.35,9.98,Location B,Delivered,5,Satisfied
+301,2023-03-09,18,Product A,6,75.73,454.38,CUST021,57,Male,South,City C,Online,High,0,,3,0.27,20.447100000000002,Bank Transfer,Electronics,4.14,3.63,Location B,Shipped,1,
+302,2023-07-04,6,Product F,3,91.11,273.33,CUST194,19,Female,East,City E,Offline,High,0,,5,0.28,25.510800000000003,PayPal,Sports,2.48,3.02,Location A,Shipped,1,Satisfied
+303,2023-10-21,19,Product I,11,18.14,199.54000000000002,CUST169,25,Male,West,City E,Offline,Low,0,,11,0.2,3.628,Bank Transfer,Home & Kitchen,2.76,6.17,Location B,Cancelled,5,Excellent
+304,2023-02-13,4,Product H,15,76.82,1152.3,CUST152,65,Male,South,City E,Online,Low,0,Not as described,8,0.2,15.363999999999999,Bank Transfer,Clothing,1.59,11.84,Location B,Cancelled,1,
+305,2023-11-24,1,Product K,5,27.86,139.3,CUST035,44,Female,South,City A,Online,High,1,,3,0.14,3.9004000000000003,Debit Card,Electronics,0.99,4.57,Location C,Pending,5,Satisfied
+306,2023-04-25,8,Product S,10,88.23,882.3000000000001,CUST184,39,Other,West,City B,Offline,Low,0,,7,0.25,22.0575,Credit Card,Home & Kitchen,0.52,4.47,Location B,Cancelled,1,Excellent
+307,2023-05-25,7,Product I,12,84.71,1016.52,CUST030,54,Male,Central,City D,Offline,High,0,,11,0.29,24.565899999999996,Debit Card,Books,3.6,8.33,Location C,Shipped,3,Excellent
+308,2023-04-10,3,Product Q,15,59.66,894.9,CUST057,44,Female,West,City A,Offline,Medium,0,,8,0.23,13.7218,Debit Card,Home & Kitchen,1.06,11.41,Location C,Delivered,1,Good product
+309,2023-05-09,10,Product L,17,74.91,1273.47,CUST047,46,Male,East,City B,Offline,High,0,,10,0.19,14.232899999999999,PayPal,Sports,3.48,12.25,Location C,Delivered,4,Good product
+310,2023-08-03,10,Product N,10,39.28,392.8,CUST163,20,Female,Central,City B,Online,Medium,0,,11,0.18,7.0704,Debit Card,Books,2.01,5.31,Location A,Pending,5,Poor quality
+311,2023-01-03,19,Product O,6,53.4,320.4,CUST019,61,Other,North,City C,Online,Low,1,,14,0.25,13.35,Credit Card,Books,2.14,4.02,Location C,Cancelled,1,Satisfied
+312,2023-04-18,14,Product P,18,84.94,1528.92,CUST114,30,Other,West,City C,Online,Low,0,Damaged,3,0.16,13.5904,Bank Transfer,Home & Kitchen,2.4,15.22,Location B,Pending,5,Excellent
+313,2023-01-07,2,Product T,13,52.32,680.16,CUST008,62,Female,East,City A,Offline,Medium,0,,2,0.24,12.556799999999999,Debit Card,Sports,1.9,6.38,Location C,Shipped,4,Good product
+314,2023-08-23,1,Product A,3,43.19,129.57,CUST026,27,Female,Central,City C,Offline,Low,0,,10,0.15,6.4784999999999995,Bank Transfer,Electronics,0.59,14.08,Location C,Cancelled,1,
+315,2023-05-12,18,Product J,10,55.47,554.7,CUST113,53,Female,West,City B,Online,Medium,0,,13,0.02,1.1094,Debit Card,Home & Kitchen,1.62,14.22,Location C,Pending,1,Good product
+316,2023-01-23,7,Product H,14,85.53,1197.42,CUST071,26,Other,South,City C,Online,Low,0,,7,0.12,10.2636,Bank Transfer,Electronics,3.35,13.03,Location A,Delivered,4,Excellent
+317,2023-07-25,8,Product R,6,41.16,246.95999999999998,CUST030,44,Male,West,City E,Offline,High,0,,12,0.13,5.3508,Debit Card,Home & Kitchen,3.36,5.18,Location B,Delivered,4,Excellent
+318,2023-03-09,1,Product A,3,26.63,79.89,CUST135,51,Other,North,City C,Offline,Low,0,,9,0.04,1.0652,PayPal,Electronics,1.5,13.67,Location A,Pending,4,Good product
+319,2023-01-17,3,Product B,16,75.07,1201.12,CUST067,68,Female,West,City B,Online,High,0,,1,0.03,2.2520999999999995,Bank Transfer,Home & Kitchen,2.35,12.99,Location B,Pending,5,Good product
+320,2023-04-16,8,Product A,7,85.33,597.31,CUST065,18,Female,Central,City A,Online,High,0,Damaged,3,0.16,13.6528,Debit Card,Books,1.05,10.75,Location A,Pending,4,Excellent
+321,2023-09-22,15,Product A,14,20.05,280.7,CUST036,49,Other,Central,City D,Online,Medium,0,,5,0.03,0.6015,Debit Card,Clothing,1.13,7.37,Location B,Shipped,5,Not recommended
+322,2023-11-19,5,Product I,9,32.58,293.21999999999997,CUST025,42,Female,West,City C,Offline,Low,0,,3,0.09,2.9322,PayPal,Books,0.21,6.4,Location A,Shipped,3,Satisfied
+323,2023-01-04,3,Product M,15,23.77,356.55,CUST037,46,Other,Central,City B,Offline,Medium,0,,1,0.22,5.2294,PayPal,Electronics,4.49,4.57,Location C,Delivered,1,Satisfied
+324,2023-12-09,19,Product A,3,42.3,126.89999999999999,CUST001,24,Female,South,City D,Offline,Low,0,,7,0.29,12.266999999999998,PayPal,Sports,1.13,9.62,Location A,Shipped,1,Satisfied
+325,2023-03-12,1,Product M,2,51.52,103.04,CUST143,66,Male,West,City D,Offline,High,0,,7,0.22,11.3344,Bank Transfer,Books,1.21,10.6,Location A,Shipped,2,Good product
+326,2023-09-07,15,Product T,2,78.38,156.76,CUST037,20,Male,South,City E,Offline,High,0,Not as described,10,0.3,23.514,Bank Transfer,Clothing,1.47,7.66,Location C,Cancelled,3,Excellent
+327,2023-12-14,8,Product G,3,69.59,208.77,CUST141,37,Female,South,City D,Offline,Low,0,,12,0.21,14.613900000000001,PayPal,Electronics,0.72,9.17,Location C,Shipped,4,Not recommended
+328,2023-04-19,2,Product B,18,66.87,1203.66,CUST136,37,Other,East,City B,Online,Low,0,,8,0.09,6.0183,Credit Card,Books,3.23,7.72,Location B,Cancelled,4,Satisfied
+329,2023-10-15,3,Product F,14,42.7,597.8000000000001,CUST133,47,Male,West,City B,Online,Medium,0,,5,0.2,8.540000000000001,Credit Card,Home & Kitchen,0.47,11.32,Location B,Shipped,3,
+330,2023-05-05,14,Product G,18,86.72,1560.96,CUST188,52,Other,Central,City C,Offline,Low,0,,10,0.21,18.211199999999998,Debit Card,Sports,0.76,14.71,Location B,Delivered,4,Good product
+331,2023-03-12,14,Product N,10,53.41,534.0999999999999,CUST128,52,Female,South,City C,Online,Low,0,,12,0.11,5.8751,Credit Card,Electronics,3.26,5.12,Location A,Pending,2,Excellent
+332,2023-09-20,11,Product R,2,99.11,198.22,CUST127,66,Other,East,City C,Offline,Low,0,,5,0.01,0.9911,Debit Card,Books,1.76,7.95,Location B,Delivered,5,Satisfied
+333,2023-11-21,16,Product O,1,68.06,68.06,CUST001,56,Male,West,City D,Online,Medium,0,,5,0.21,14.2926,Bank Transfer,Electronics,3.57,4.82,Location A,Shipped,1,Satisfied
+334,2023-04-21,4,Product B,4,22.35,89.4,CUST164,44,Other,West,City D,Offline,Low,0,,1,0.01,0.22350000000000003,Bank Transfer,Home & Kitchen,2.83,11.11,Location A,Pending,3,Poor quality
+335,2023-07-16,20,Product J,14,71.85,1005.8999999999999,CUST035,43,Other,North,City E,Online,High,0,,10,0.19,13.651499999999999,Credit Card,Clothing,1.35,12.47,Location B,Pending,1,Satisfied
+336,2023-09-07,5,Product L,1,40.25,40.25,CUST194,31,Female,North,City C,Online,Medium,0,,5,0.05,2.0125,Bank Transfer,Books,3.29,15.1,Location B,Pending,5,Excellent
+337,2023-05-10,14,Product Q,14,72.76,1018.6400000000001,CUST191,34,Female,South,City A,Offline,Medium,0,,6,0.17,12.369200000000001,PayPal,Electronics,0.67,6.62,Location A,Cancelled,3,Excellent
+338,2023-10-07,16,Product H,16,17.26,276.16,CUST104,35,Female,North,City E,Offline,High,1,Damaged,13,0.15,2.589,PayPal,Electronics,2.73,15.34,Location C,Delivered,5,Satisfied
+339,2023-10-05,18,Product K,14,26.73,374.22,CUST023,62,Male,South,City A,Online,High,0,,12,0.0,0.0,Credit Card,Electronics,2.24,3.81,Location C,Cancelled,4,Not recommended
+340,2023-03-23,7,Product C,3,88.01,264.03000000000003,CUST009,69,Male,Central,City D,Online,High,0,,1,0.11,9.6811,Credit Card,Clothing,1.41,10.83,Location A,Pending,4,Satisfied
+341,2023-11-11,10,Product F,3,31.44,94.32000000000001,CUST034,46,Female,South,City E,Offline,Low,0,,11,0.18,5.6592,Debit Card,Electronics,3.06,3.73,Location B,Delivered,4,Excellent
+342,2023-02-15,7,Product I,9,86.32,776.8799999999999,CUST174,37,Female,North,City E,Online,High,0,,7,0.25,21.58,Bank Transfer,Sports,4.37,14.61,Location A,Delivered,5,Good product
+343,2023-12-09,1,Product F,6,36.12,216.71999999999997,CUST128,44,Male,Central,City B,Offline,Low,0,,1,0.27,9.7524,Debit Card,Sports,4.99,9.88,Location A,Shipped,5,Good product
+344,2023-10-26,19,Product I,13,68.85,895.05,CUST004,35,Male,North,City D,Offline,Medium,0,,11,0.15,10.327499999999999,Debit Card,Electronics,3.08,11.69,Location B,Cancelled,5,Satisfied
+345,2023-12-17,16,Product G,2,73.46,146.92,CUST158,21,Male,South,City D,Online,Medium,0,Wrong item,2,0.22,16.161199999999997,PayPal,Sports,2.08,13.8,Location C,Cancelled,1,Excellent
+346,2023-06-07,19,Product I,8,57.13,457.04,CUST102,18,Male,East,City E,Offline,High,0,,2,0.09,5.1417,PayPal,Books,1.2,4.94,Location A,Shipped,5,Excellent
+347,2023-08-10,4,Product R,2,38.47,76.94,CUST075,67,Female,West,City D,Online,Low,0,,5,0.1,3.847,PayPal,Sports,1.36,3.49,Location C,Cancelled,4,Satisfied
+348,2023-09-18,18,Product L,4,30.13,120.52,CUST099,18,Male,North,City E,Online,High,0,,14,0.06,1.8077999999999999,PayPal,Electronics,2.45,14.42,Location C,Pending,2,Good product
+349,2023-11-26,2,Product H,15,13.98,209.70000000000002,CUST072,43,Female,South,City B,Offline,High,0,,10,0.17,2.3766000000000003,Debit Card,Home & Kitchen,1.9,7.08,Location B,Pending,5,Satisfied
+350,2023-02-05,1,Product H,4,38.35,153.4,CUST003,62,Other,Central,City E,Online,Low,0,,13,0.09,3.4515,PayPal,Books,4.58,4.67,Location A,Cancelled,2,Excellent
+351,2023-05-06,15,Product R,13,69.77,907.01,CUST142,37,Other,North,City D,Offline,High,0,,7,0.03,2.0930999999999997,Bank Transfer,Clothing,1.9,9.08,Location A,Shipped,4,Excellent
+352,2023-03-08,5,Product T,12,95.44,1145.28,CUST188,69,Male,North,City D,Offline,Medium,0,,1,0.21,20.042399999999997,PayPal,Electronics,1.93,10.77,Location C,Delivered,5,Good product
+353,2023-01-22,20,Product O,13,89.4,1162.2,CUST173,40,Other,West,City E,Offline,High,0,,10,0.21,18.774,PayPal,Clothing,1.98,3.39,Location C,Cancelled,1,Good product
+354,2023-04-17,11,Product G,14,79.94,1119.1599999999999,CUST034,27,Other,South,City E,Online,Low,0,,1,0.11,8.7934,PayPal,Home & Kitchen,4.2,6.56,Location B,Delivered,1,Excellent
+355,2023-07-25,10,Product K,18,81.95,1475.1000000000001,CUST045,28,Other,East,City E,Offline,Low,0,,1,0.02,1.639,Credit Card,Clothing,3.29,3.42,Location C,Shipped,2,Good product
+356,2023-04-04,2,Product T,6,70.84,425.04,CUST061,58,Male,Central,City C,Online,Medium,0,,6,0.13,9.209200000000001,Bank Transfer,Electronics,3.11,8.45,Location B,Delivered,1,Good product
+357,2023-06-28,3,Product P,11,34.42,378.62,CUST083,58,Male,South,City D,Offline,Low,0,,2,0.13,4.474600000000001,Bank Transfer,Electronics,1.74,14.63,Location A,Shipped,1,Good product
+358,2023-03-12,12,Product D,2,92.64,185.28,CUST123,22,Other,Central,City D,Offline,Low,0,,1,0.2,18.528000000000002,Debit Card,Home & Kitchen,4.11,15.76,Location B,Shipped,1,Satisfied
+359,2023-06-07,20,Product F,19,71.36,1355.84,CUST102,18,Female,North,City C,Offline,Medium,0,,6,0.09,6.4224,Debit Card,Electronics,0.29,11.27,Location C,Pending,4,Poor quality
+360,2023-11-10,5,Product C,19,61.43,1167.17,CUST016,34,Other,West,City E,Online,High,0,,14,0.2,12.286000000000001,PayPal,Home & Kitchen,4.37,5.09,Location A,Pending,1,Excellent
+361,2023-10-19,5,Product I,5,20.98,104.9,CUST066,39,Male,West,City B,Online,Medium,0,,2,0.26,5.4548000000000005,Credit Card,Home & Kitchen,2.61,14.77,Location B,Shipped,3,Satisfied
+362,2023-07-03,6,Product J,19,51.22,973.18,CUST168,51,Male,East,City E,Offline,High,0,,6,0.07,3.5854000000000004,Debit Card,Electronics,2.05,9.7,Location A,Cancelled,5,Excellent
+363,2023-02-28,9,Product N,2,52.42,104.84,CUST145,62,Male,West,City E,Offline,Medium,0,,10,0.29,15.201799999999999,Debit Card,Sports,2.54,4.99,Location B,Pending,1,Good product
+364,2023-10-20,2,Product K,10,88.8,888.0,CUST119,58,Other,North,City C,Online,High,0,,8,0.12,10.655999999999999,PayPal,Home & Kitchen,3.37,14.97,Location C,Shipped,1,Not recommended
+365,2023-12-08,12,Product R,2,60.19,120.38,CUST162,46,Female,East,City D,Online,Medium,0,,2,0.08,4.8152,PayPal,Electronics,0.16,12.84,Location C,Delivered,1,Excellent
+366,2023-09-07,3,Product L,11,45.23,497.53,CUST124,21,Male,South,City E,Online,High,0,,11,0.13,5.8799,Debit Card,Sports,4.37,12.5,Location A,Delivered,3,Excellent
+367,2023-01-03,20,Product L,18,98.9,1780.2,CUST144,22,Male,West,City D,Offline,Medium,0,,9,0.03,2.967,Debit Card,Home & Kitchen,2.29,12.21,Location A,Cancelled,1,Satisfied
+368,2023-12-25,12,Product M,15,20.95,314.25,CUST102,28,Other,East,City A,Online,High,0,,8,0.04,0.838,Bank Transfer,Sports,1.78,5.59,Location A,Delivered,1,Good product
+369,2023-12-17,17,Product M,9,49.02,441.18,CUST188,68,Female,North,City D,Offline,Medium,0,,12,0.12,5.8824000000000005,Credit Card,Books,0.78,5.73,Location B,Delivered,5,Poor quality
+370,2023-09-24,10,Product S,19,14.77,280.63,CUST066,38,Other,Central,City B,Online,Low,0,,10,0.23,3.3971,Bank Transfer,Books,2.25,11.94,Location C,Shipped,3,Excellent
+371,2023-01-06,14,Product S,9,77.58,698.22,CUST194,52,Male,Central,City B,Offline,High,0,,1,0.27,20.9466,Debit Card,Sports,2.53,5.85,Location A,Delivered,3,Good product
+372,2023-05-06,17,Product N,3,93.62,280.86,CUST013,29,Female,North,City E,Offline,Medium,0,,7,0.2,18.724,Bank Transfer,Home & Kitchen,2.08,8.69,Location A,Delivered,1,
+373,2023-10-12,18,Product D,9,36.19,325.71,CUST184,43,Female,North,City D,Offline,High,0,,14,0.03,1.0856999999999999,Bank Transfer,Electronics,3.43,13.16,Location A,Delivered,3,
+374,2023-05-16,19,Product M,14,88.24,1235.36,CUST111,68,Male,Central,City E,Online,High,0,,13,0.2,17.648,Debit Card,Clothing,2.16,13.18,Location B,Delivered,2,Poor quality
+375,2023-06-21,17,Product H,19,37.29,708.51,CUST159,36,Female,East,City C,Online,Medium,0,,10,0.19,7.0851,PayPal,Electronics,4.81,8.88,Location A,Shipped,3,
+376,2023-11-28,14,Product S,7,92.96,650.7199999999999,CUST034,62,Female,Central,City B,Online,High,0,,6,0.24,22.310399999999998,Debit Card,Clothing,3.04,13.29,Location A,Delivered,3,Good product
+377,2023-05-04,9,Product L,16,78.85,1261.6,CUST039,24,Other,North,City E,Offline,Medium,0,,14,0.25,19.7125,PayPal,Clothing,4.06,13.89,Location B,Cancelled,3,Good product
+378,2023-03-19,8,Product R,16,83.43,1334.88,CUST195,64,Male,West,City C,Offline,Low,0,,6,0.26,21.691800000000004,Debit Card,Home & Kitchen,0.64,11.5,Location B,Pending,4,Good product
+379,2023-04-25,2,Product F,1,12.61,12.61,CUST136,24,Male,South,City E,Online,High,0,,6,0.12,1.5131999999999999,Debit Card,Sports,2.05,5.96,Location A,Cancelled,4,Excellent
+380,2023-02-15,13,Product R,4,97.64,390.56,CUST120,43,Male,West,City D,Offline,Low,0,,6,0.21,20.5044,Debit Card,Electronics,1.75,6.55,Location A,Pending,4,Good product
+381,2023-09-17,7,Product S,4,76.39,305.56,CUST126,57,Male,West,City D,Offline,High,0,,10,0.08,6.1112,Credit Card,Sports,2.89,7.08,Location B,Cancelled,3,
+382,2023-01-21,9,Product E,7,38.42,268.94,CUST055,22,Male,North,City D,Offline,High,0,,7,0.3,11.526,PayPal,Books,4.32,4.51,Location C,Pending,2,Good product
+383,2023-06-22,11,Product I,8,85.64,685.12,CUST027,38,Female,Central,City D,Online,High,0,,12,0.05,4.282,Credit Card,Home & Kitchen,0.48,6.54,Location B,Pending,3,Satisfied
+384,2023-03-16,14,Product C,17,36.33,617.61,CUST118,31,Other,East,City A,Offline,Medium,0,,3,0.0,0.0,Debit Card,Home & Kitchen,0.46,5.71,Location C,Pending,1,Not recommended
+385,2023-07-25,4,Product J,5,89.54,447.70000000000005,CUST053,21,Male,West,City C,Online,Low,0,Not as described,14,0.04,3.5816000000000003,Bank Transfer,Books,4.27,8.91,Location A,Pending,2,Satisfied
+386,2023-11-12,13,Product S,7,21.12,147.84,CUST039,40,Other,Central,City C,Online,High,0,,6,0.23,4.857600000000001,Credit Card,Electronics,1.14,14.8,Location A,Shipped,4,Satisfied
+387,2023-10-16,2,Product C,4,74.32,297.28,CUST065,59,Other,East,City D,Online,Medium,0,,3,0.13,9.6616,PayPal,Books,3.38,4.35,Location C,Cancelled,5,Excellent
+388,2023-08-06,5,Product O,6,59.65,357.9,CUST145,37,Female,West,City A,Online,High,0,,7,0.13,7.7545,Debit Card,Electronics,2.76,12.35,Location B,Pending,2,Satisfied
+389,2023-12-24,11,Product A,7,19.68,137.76,CUST158,32,Male,East,City D,Online,Medium,0,Damaged,7,0.29,5.707199999999999,Credit Card,Clothing,4.18,11.92,Location A,Cancelled,4,Satisfied
+390,2023-12-21,6,Product G,18,32.76,589.68,CUST181,67,Female,Central,City A,Offline,High,0,Wrong item,8,0.28,9.1728,Bank Transfer,Home & Kitchen,0.71,4.23,Location C,Delivered,2,Satisfied
+391,2023-08-26,18,Product L,5,12.11,60.55,CUST013,69,Male,South,City D,Online,Low,0,,2,0.09,1.0898999999999999,Credit Card,Electronics,0.74,14.98,Location B,Pending,2,Poor quality
+392,2023-12-04,10,Product Q,3,53.18,159.54,CUST021,62,Female,Central,City B,Online,Low,0,,9,0.06,3.1908,PayPal,Sports,2.83,10.38,Location C,Cancelled,3,
+393,2023-10-08,4,Product T,7,38.1,266.7,CUST147,46,Other,North,City B,Online,High,0,,13,0.25,9.525,Credit Card,Sports,4.74,7.72,Location B,Shipped,1,Not recommended
+394,2023-10-28,9,Product E,14,64.84,907.76,CUST053,25,Male,East,City E,Offline,Medium,0,,5,0.27,17.506800000000002,Bank Transfer,Home & Kitchen,2.13,12.83,Location B,Cancelled,5,Satisfied
+395,2023-02-28,6,Product D,7,37.74,264.18,CUST019,58,Other,South,City D,Offline,High,0,,9,0.16,6.0384,Bank Transfer,Books,1.7,6.34,Location B,Pending,4,Satisfied
+396,2023-12-05,2,Product L,5,37.98,189.89999999999998,CUST057,65,Other,East,City C,Offline,Medium,0,,10,0.19,7.2162,PayPal,Books,3.07,12.01,Location B,Delivered,2,Poor quality
+397,2023-09-04,17,Product T,5,77.88,389.4,CUST025,36,Female,East,City E,Offline,High,0,,5,0.08,6.2303999999999995,Bank Transfer,Electronics,4.66,3.51,Location C,Cancelled,5,
+398,2023-11-22,5,Product R,2,15.32,30.64,CUST031,65,Male,West,City B,Online,Medium,0,,7,0.24,3.6768,Debit Card,Books,4.2,13.9,Location C,Delivered,2,Good product
+399,2023-01-09,6,Product Q,6,92.25,553.5,CUST081,56,Other,North,City D,Online,Low,0,,11,0.19,17.5275,Bank Transfer,Home & Kitchen,4.98,8.82,Location C,Shipped,1,Satisfied
+400,2023-01-21,12,Product S,15,87.69,1315.35,CUST183,63,Female,East,City E,Offline,High,0,Wrong item,9,0.15,13.1535,Debit Card,Electronics,0.21,11.27,Location C,Cancelled,5,Excellent
+401,2023-04-13,10,Product I,10,71.09,710.9000000000001,CUST023,45,Male,Central,City D,Offline,Low,0,Not as described,4,0.02,1.4218000000000002,Credit Card,Clothing,0.65,5.87,Location C,Cancelled,4,
+402,2023-12-16,6,Product D,7,64.38,450.65999999999997,CUST032,63,Male,Central,City B,Offline,Low,0,,2,0.27,17.3826,Debit Card,Books,3.09,11.79,Location B,Shipped,2,Good product
+403,2023-03-06,8,Product B,5,91.3,456.5,CUST190,44,Other,West,City E,Offline,High,0,,9,0.18,16.433999999999997,Debit Card,Books,4.12,13.03,Location A,Shipped,1,Satisfied
+404,2023-02-19,2,Product D,1,27.67,27.67,CUST074,21,Male,North,City B,Online,High,0,,13,0.06,1.6602000000000001,Credit Card,Electronics,1.5,9.14,Location A,Shipped,5,Satisfied
+405,2023-05-15,12,Product B,13,18.1,235.3,CUST010,32,Other,North,City A,Offline,Medium,0,,2,0.18,3.258,Bank Transfer,Sports,1.27,11.02,Location C,Pending,2,Good product
+406,2023-09-02,13,Product O,18,32.55,585.9,CUST200,52,Male,Central,City B,Offline,Medium,1,,3,0.2,6.51,Debit Card,Books,3.96,8.92,Location C,Pending,2,Excellent
+407,2023-10-24,7,Product B,13,82.5,1072.5,CUST054,54,Female,South,City D,Offline,Low,0,,10,0.16,13.200000000000001,Bank Transfer,Home & Kitchen,0.38,14.61,Location A,Cancelled,4,Excellent
+408,2023-02-27,10,Product D,18,14.11,253.98,CUST052,18,Other,West,City C,Offline,Medium,0,,2,0.22,3.1042,Credit Card,Books,1.91,9.46,Location B,Cancelled,1,Excellent
+409,2023-05-23,13,Product F,5,63.44,317.2,CUST148,20,Other,West,City B,Offline,Medium,0,,3,0.17,10.7848,PayPal,Clothing,2.58,13.93,Location C,Cancelled,3,Good product
+410,2023-08-01,17,Product G,13,100.58,1307.54,CUST160,64,Male,Central,City C,Offline,High,0,,6,0.28,28.1624,Bank Transfer,Books,2.85,13.41,Location B,Delivered,2,Good product
+411,2023-06-01,14,Product J,4,88.0,352.0,CUST114,41,Male,Central,City A,Offline,Medium,0,,3,0.02,1.76,Bank Transfer,Sports,3.67,8.33,Location A,Shipped,5,Satisfied
+412,2023-02-15,2,Product S,17,57.92,984.64,CUST014,44,Other,South,City E,Online,Low,0,,10,0.03,1.7376,PayPal,Books,1.84,5.98,Location A,Cancelled,4,Satisfied
+413,2023-01-11,11,Product S,3,16.72,50.16,CUST178,57,Male,South,City E,Online,Medium,0,,8,0.05,0.836,PayPal,Electronics,3.1,8.27,Location C,Shipped,4,Excellent
+414,2023-05-26,1,Product L,17,85.81,1458.77,CUST156,53,Female,North,City C,Online,Low,1,,11,0.21,18.0201,Credit Card,Books,2.97,13.73,Location B,Pending,2,Good product
+415,2023-09-22,19,Product C,11,64.9,713.9000000000001,CUST110,51,Male,West,City E,Online,High,0,,6,0.19,12.331000000000001,Bank Transfer,Sports,2.78,5.95,Location C,Shipped,2,Good product
+416,2023-11-27,4,Product M,4,21.33,85.32,CUST053,46,Female,West,City B,Online,Low,0,,7,0.27,5.7591,Bank Transfer,Electronics,3.24,9.81,Location A,Delivered,2,Satisfied
+417,2023-01-13,19,Product R,2,19.44,38.88,CUST152,41,Female,Central,City C,Online,Medium,0,,1,0.22,4.276800000000001,Credit Card,Home & Kitchen,1.37,13.47,Location B,Delivered,3,Satisfied
+418,2023-01-02,11,Product H,16,92.86,1485.76,CUST079,41,Female,North,City D,Offline,High,0,,3,0.15,13.929,Bank Transfer,Electronics,0.51,7.59,Location C,Shipped,2,Poor quality
+419,2023-09-03,8,Product O,18,71.22,1281.96,CUST022,59,Female,West,City B,Offline,Medium,0,Not as described,3,0.3,21.366,Debit Card,Clothing,0.68,11.34,Location C,Delivered,1,Not recommended
+420,2023-01-21,11,Product A,8,85.63,685.04,CUST030,21,Female,North,City B,Online,High,0,,2,0.08,6.8504,Debit Card,Electronics,1.2,6.18,Location C,Delivered,5,Good product
+421,2023-07-06,4,Product C,3,90.1,270.29999999999995,CUST191,20,Male,North,City B,Offline,High,0,,7,0.25,22.525,Debit Card,Home & Kitchen,2.55,4.41,Location A,Pending,2,Excellent
+422,2023-12-17,17,Product H,9,62.45,562.0500000000001,CUST004,51,Female,Central,City D,Online,Medium,0,,9,0.13,8.118500000000001,Bank Transfer,Books,4.22,13.32,Location C,Cancelled,3,Satisfied
+423,2023-05-05,7,Product D,6,57.56,345.36,CUST059,66,Male,North,City A,Offline,Medium,0,Damaged,4,0.19,10.9364,Debit Card,Electronics,3.54,4.28,Location B,Delivered,5,Satisfied
+424,2023-06-03,8,Product P,10,49.73,497.29999999999995,CUST008,40,Female,South,City E,Offline,High,0,,12,0.22,10.9406,Debit Card,Electronics,3.97,6.52,Location C,Cancelled,4,
+425,2023-05-23,3,Product J,10,39.52,395.20000000000005,CUST012,69,Other,South,City C,Offline,High,0,,5,0.19,7.508800000000001,Credit Card,Electronics,1.82,14.11,Location A,Shipped,2,Satisfied
+426,2023-05-21,2,Product L,13,50.1,651.3000000000001,CUST119,40,Female,East,City A,Offline,Medium,0,,3,0.04,2.004,Credit Card,Electronics,2.08,7.49,Location C,Shipped,5,Excellent
+427,2023-05-10,15,Product N,17,80.64,1370.88,CUST159,62,Other,Central,City C,Offline,Low,1,,11,0.13,10.4832,PayPal,Home & Kitchen,2.03,15.64,Location A,Delivered,4,Satisfied
+428,2023-10-19,5,Product N,9,65.16,586.4399999999999,CUST034,22,Female,East,City E,Offline,Medium,0,,9,0.17,11.0772,PayPal,Sports,1.04,15.73,Location A,Shipped,3,Poor quality
+429,2023-01-21,1,Product B,17,91.32,1552.4399999999998,CUST082,48,Female,South,City D,Online,High,0,,14,0.25,22.83,PayPal,Sports,0.4,6.48,Location B,Pending,1,Excellent
+430,2023-09-14,4,Product E,9,50.89,458.01,CUST098,58,Female,East,City B,Online,Medium,0,,4,0.13,6.6157,PayPal,Electronics,3.0,3.52,Location B,Delivered,2,Not recommended
+431,2023-01-19,15,Product E,9,65.63,590.67,CUST127,23,Other,Central,City B,Offline,Low,0,,5,0.28,18.3764,Credit Card,Home & Kitchen,4.95,12.16,Location C,Delivered,1,Not recommended
+432,2023-04-01,20,Product F,1,67.81,67.81,CUST075,54,Other,Central,City D,Online,Medium,0,,1,0.13,8.8153,Credit Card,Home & Kitchen,0.92,8.85,Location A,Delivered,3,Excellent
+433,2023-01-08,19,Product M,2,64.24,128.48,CUST105,27,Female,North,City A,Offline,High,0,,11,0.16,10.2784,Credit Card,Electronics,0.33,4.3,Location A,Shipped,5,Satisfied
+434,2023-02-28,3,Product I,16,74.23,1187.68,CUST049,57,Male,West,City A,Online,Medium,0,,12,0.24,17.8152,Debit Card,Clothing,3.92,12.19,Location B,Shipped,5,Excellent
+435,2023-08-07,20,Product O,1,32.36,32.36,CUST079,24,Female,North,City C,Offline,High,0,,13,0.17,5.5012,Debit Card,Electronics,1.34,3.4,Location B,Delivered,3,Excellent
+436,2023-10-26,11,Product N,10,57.1,571.0,CUST185,56,Other,Central,City D,Online,High,0,,2,0.29,16.558999999999997,PayPal,Clothing,4.17,14.3,Location C,Cancelled,3,Good product
+437,2023-02-22,17,Product G,18,20.37,366.66,CUST093,55,Female,South,City A,Offline,Medium,0,,12,0.2,4.074000000000001,Debit Card,Electronics,3.55,4.79,Location A,Shipped,2,Satisfied
+438,2023-06-03,13,Product T,8,45.6,364.8,CUST154,38,Other,South,City D,Online,High,0,,13,0.16,7.296,Bank Transfer,Clothing,4.73,4.65,Location B,Shipped,4,Not recommended
+439,2023-11-18,11,Product B,11,54.88,603.6800000000001,CUST018,37,Other,North,City E,Offline,High,0,,9,0.01,0.5488000000000001,Credit Card,Clothing,2.1,5.27,Location C,Delivered,1,Poor quality
+440,2023-12-01,2,Product G,2,69.69,139.38,CUST096,20,Other,Central,City B,Online,Low,0,,2,0.12,8.3628,PayPal,Electronics,3.34,15.47,Location A,Cancelled,1,Satisfied
+441,2023-06-12,9,Product F,8,96.54,772.32,CUST038,68,Female,South,City B,Offline,Low,0,Damaged,5,0.09,8.688600000000001,PayPal,Clothing,2.38,12.0,Location A,Delivered,5,Not recommended
+442,2023-05-27,2,Product Q,8,65.05,520.4,CUST087,39,Other,Central,City B,Offline,Low,0,,13,0.22,14.311,Bank Transfer,Books,3.19,13.41,Location B,Shipped,5,Good product
+443,2023-09-17,9,Product B,17,77.91,1324.47,CUST088,64,Other,South,City D,Offline,Low,0,,8,0.06,4.6746,Debit Card,Sports,2.3,8.16,Location C,Delivered,2,Satisfied
+444,2023-07-15,9,Product C,15,56.55,848.25,CUST050,21,Female,Central,City D,Online,High,0,,3,0.06,3.393,PayPal,Home & Kitchen,1.02,7.36,Location B,Delivered,3,Excellent
+445,2023-05-21,8,Product E,17,68.06,1157.02,CUST008,45,Other,East,City C,Online,Medium,0,,6,0.06,4.0836,Debit Card,Clothing,2.59,6.04,Location C,Delivered,1,Satisfied
+446,2023-02-11,17,Product E,13,17.37,225.81,CUST169,29,Female,Central,City B,Online,High,0,,4,0.04,0.6948000000000001,Debit Card,Clothing,2.69,9.24,Location A,Cancelled,2,Excellent
+447,2023-03-07,1,Product A,19,33.89,643.91,CUST134,55,Other,Central,City C,Offline,High,0,,11,0.09,3.0501,Bank Transfer,Home & Kitchen,4.07,10.16,Location C,Delivered,5,Good product
+448,2023-06-28,11,Product H,5,43.56,217.8,CUST069,68,Male,North,City B,Online,High,0,,7,0.27,11.7612,PayPal,Clothing,3.7,11.2,Location C,Shipped,5,Satisfied
+449,2023-02-06,8,Product L,12,53.51,642.12,CUST172,53,Male,East,City C,Offline,Medium,0,,10,0.23,12.3073,Debit Card,Home & Kitchen,3.35,6.33,Location C,Delivered,1,Good product
+450,2023-02-02,10,Product D,1,15.1,15.1,CUST121,64,Other,West,City C,Online,Low,0,,14,0.22,3.322,Debit Card,Electronics,0.66,15.32,Location C,Cancelled,5,
+451,2023-02-15,7,Product M,5,23.59,117.95,CUST064,58,Male,North,City E,Online,High,1,,13,0.24,5.6616,Bank Transfer,Books,3.63,5.2,Location C,Pending,5,Satisfied
+452,2023-11-19,3,Product O,8,35.9,287.2,CUST157,22,Female,West,City C,Online,High,0,,3,0.08,2.872,Bank Transfer,Books,2.55,15.54,Location B,Cancelled,4,Satisfied
+453,2023-02-20,3,Product K,13,98.43,1279.5900000000001,CUST156,30,Male,South,City D,Online,Low,0,,6,0.27,26.576100000000004,Debit Card,Sports,4.48,3.18,Location C,Delivered,3,Good product
+454,2023-09-06,18,Product J,8,40.81,326.48,CUST139,40,Other,West,City C,Offline,High,0,,12,0.04,1.6324,Bank Transfer,Clothing,4.61,9.24,Location C,Pending,5,Good product
+455,2023-01-24,5,Product C,11,54.37,598.0699999999999,CUST121,67,Other,Central,City B,Online,Medium,0,,10,0.1,5.437,Debit Card,Sports,0.37,7.32,Location A,Delivered,4,Satisfied
+456,2023-12-23,12,Product N,1,28.64,28.64,CUST065,47,Female,West,City C,Online,High,0,,9,0.18,5.1552,PayPal,Electronics,4.12,8.83,Location C,Cancelled,2,Good product
+457,2023-10-19,12,Product P,13,65.96,857.4799999999999,CUST107,54,Other,North,City A,Offline,High,0,,11,0.03,1.9787999999999997,Credit Card,Books,0.28,10.41,Location A,Pending,5,Poor quality
+458,2023-01-05,19,Product J,19,36.25,688.75,CUST147,42,Female,North,City B,Offline,Low,0,,10,0.22,7.975,Bank Transfer,Electronics,1.9,8.65,Location B,Pending,2,Poor quality
+459,2023-04-10,6,Product J,3,29.62,88.86,CUST137,65,Male,West,City A,Online,High,0,,1,0.12,3.5544,Credit Card,Electronics,2.76,8.38,Location B,Delivered,5,Excellent
+460,2023-08-17,2,Product L,17,57.48,977.16,CUST155,44,Male,North,City B,Online,High,0,,3,0.24,13.7952,Debit Card,Clothing,0.83,12.52,Location C,Delivered,1,Excellent
+461,2023-10-17,12,Product I,5,11.49,57.45,CUST162,68,Female,North,City D,Offline,Medium,0,,2,0.15,1.7235,Debit Card,Electronics,3.76,11.91,Location B,Cancelled,4,Satisfied
+462,2023-12-20,19,Product A,8,11.68,93.44,CUST172,31,Female,West,City D,Offline,Low,0,,8,0.05,0.584,Debit Card,Books,0.14,13.82,Location C,Delivered,4,Satisfied
+463,2023-08-05,5,Product E,14,30.71,429.94,CUST196,65,Other,East,City D,Offline,Low,0,,7,0.22,6.756200000000001,Credit Card,Sports,0.93,6.24,Location B,Pending,1,Excellent
+464,2023-02-06,12,Product T,4,14.29,57.16,CUST100,64,Male,East,City A,Online,Medium,0,,2,0.08,1.1432,Debit Card,Books,2.95,10.91,Location C,Shipped,3,Excellent
+465,2023-05-02,17,Product H,11,20.71,227.81,CUST082,53,Female,South,City E,Online,High,0,,6,0.15,3.1065,Bank Transfer,Clothing,3.6,10.6,Location C,Shipped,4,Good product
+466,2023-11-11,17,Product K,15,41.49,622.35,CUST143,56,Male,North,City B,Online,Low,0,,3,0.02,0.8298000000000001,PayPal,Books,4.59,7.8,Location A,Cancelled,2,
+467,2023-11-19,10,Product L,19,83.22,1581.18,CUST051,33,Female,West,City D,Offline,Low,0,,8,0.19,15.8118,PayPal,Home & Kitchen,3.56,9.31,Location A,Delivered,4,Good product
+468,2023-09-23,17,Product A,7,62.47,437.28999999999996,CUST141,39,Male,North,City B,Offline,High,0,,10,0.2,12.494,Bank Transfer,Sports,3.39,7.07,Location A,Cancelled,3,Good product
+469,2023-07-16,15,Product T,19,57.13,1085.47,CUST083,38,Other,Central,City A,Offline,High,0,,13,0.11,6.2843,PayPal,Home & Kitchen,2.03,4.83,Location A,Shipped,2,Good product
+470,2023-11-22,12,Product K,19,37.4,710.6,CUST177,38,Male,North,City E,Online,Low,0,,3,0.29,10.845999999999998,Credit Card,Home & Kitchen,0.11,5.77,Location C,Shipped,2,
+471,2023-08-04,16,Product E,11,94.85,1043.35,CUST198,25,Male,North,City A,Offline,High,0,,10,0.26,24.660999999999998,Debit Card,Clothing,0.69,4.36,Location B,Delivered,1,Poor quality
+472,2023-08-04,19,Product O,5,46.72,233.6,CUST112,66,Male,East,City B,Online,Low,0,,14,0.21,9.8112,Debit Card,Electronics,2.72,11.87,Location C,Pending,5,Excellent
+473,2023-08-25,8,Product E,5,18.83,94.14999999999999,CUST056,33,Male,West,City E,Offline,High,0,,9,0.21,3.9542999999999995,Debit Card,Home & Kitchen,3.41,11.58,Location A,Delivered,1,Satisfied
+474,2023-03-03,17,Product L,8,66.53,532.24,CUST179,48,Male,North,City E,Online,High,0,,1,0.08,5.3224,Credit Card,Books,2.15,15.35,Location A,Shipped,5,Poor quality
+475,2023-11-18,5,Product E,10,21.24,212.39999999999998,CUST165,59,Other,East,City A,Online,Medium,0,,5,0.2,4.248,Credit Card,Electronics,3.68,12.48,Location B,Pending,1,Satisfied
+476,2023-10-19,16,Product Q,6,42.06,252.36,CUST145,27,Female,South,City D,Offline,High,0,,3,0.06,2.5236,Credit Card,Books,2.66,3.67,Location A,Cancelled,5,Not recommended
+477,2023-03-21,6,Product Q,15,56.66,849.9,CUST186,49,Male,East,City B,Online,Medium,0,Not as described,6,0.04,2.2664,Bank Transfer,Books,0.46,14.49,Location C,Shipped,4,Good product
+478,2023-05-18,8,Product L,16,89.67,1434.72,CUST157,51,Other,East,City C,Offline,High,0,,10,0.3,26.901,Credit Card,Electronics,1.04,14.2,Location C,Cancelled,2,Satisfied
+479,2023-12-10,18,Product O,17,55.41,941.9699999999999,CUST161,26,Male,East,City C,Online,Low,1,,2,0.19,10.527899999999999,PayPal,Electronics,4.22,8.75,Location C,Pending,5,Good product
+480,2023-06-21,12,Product O,8,74.19,593.52,CUST060,34,Male,North,City A,Offline,Low,1,,9,0.13,9.6447,Bank Transfer,Books,3.65,10.61,Location C,Cancelled,4,Not recommended
+481,2023-06-01,15,Product F,8,100.34,802.72,CUST120,28,Female,North,City B,Offline,High,0,,6,0.09,9.0306,Bank Transfer,Clothing,4.48,15.68,Location C,Shipped,3,Poor quality
+482,2023-05-09,9,Product L,9,22.82,205.38,CUST183,49,Male,South,City B,Online,High,0,,7,0.18,4.1076,Bank Transfer,Sports,0.68,9.91,Location B,Delivered,1,Satisfied
+483,2023-12-26,13,Product T,2,35.72,71.44,CUST138,27,Other,Central,City A,Offline,Low,0,,5,0.01,0.3572,Credit Card,Sports,4.95,14.76,Location C,Cancelled,3,Satisfied
+484,2023-02-17,15,Product R,15,46.5,697.5,CUST175,39,Other,Central,City B,Online,High,0,Not as described,9,0.03,1.395,Bank Transfer,Clothing,1.13,4.07,Location A,Shipped,4,
+485,2023-10-13,10,Product N,18,48.95,881.1,CUST023,34,Female,Central,City D,Offline,Medium,0,,1,0.01,0.48950000000000005,Credit Card,Electronics,0.16,5.47,Location A,Shipped,3,Not recommended
+486,2023-11-09,16,Product B,3,47.98,143.94,CUST149,21,Male,South,City A,Offline,Medium,1,,5,0.15,7.196999999999999,Credit Card,Books,4.99,8.72,Location A,Pending,3,Excellent
+487,2023-10-25,7,Product I,17,92.67,1575.39,CUST013,65,Other,Central,City D,Offline,Medium,0,,11,0.18,16.6806,Bank Transfer,Sports,1.48,10.59,Location A,Shipped,4,Satisfied
+488,2023-09-22,17,Product E,4,75.25,301.0,CUST101,69,Male,Central,City B,Offline,Medium,1,,10,0.02,1.5050000000000001,Debit Card,Books,3.37,13.6,Location B,Delivered,2,Good product
+489,2023-08-11,7,Product T,4,65.7,262.8,CUST161,64,Male,East,City A,Online,Medium,0,,11,0.22,14.454,Debit Card,Clothing,0.97,15.84,Location A,Delivered,5,
+490,2023-01-26,14,Product A,14,38.83,543.62,CUST024,42,Male,North,City B,Offline,High,0,,6,0.07,2.7181,Bank Transfer,Books,2.94,8.05,Location B,Cancelled,1,Satisfied
+491,2023-04-01,15,Product C,9,85.13,766.17,CUST108,38,Female,North,City A,Offline,High,0,Damaged,7,0.21,17.877299999999998,Debit Card,Clothing,4.53,3.61,Location A,Cancelled,5,Satisfied
+492,2023-08-17,7,Product F,9,96.95,872.5500000000001,CUST011,54,Male,East,City B,Online,Medium,0,,12,0.29,28.115499999999997,PayPal,Electronics,1.67,13.41,Location B,Cancelled,1,Poor quality
+493,2023-03-20,9,Product E,18,84.9,1528.2,CUST017,55,Other,East,City D,Online,High,0,Damaged,4,0.21,17.829,PayPal,Clothing,3.38,10.85,Location B,Cancelled,5,
+494,2023-08-22,19,Product E,10,11.13,111.30000000000001,CUST196,66,Male,East,City D,Online,High,0,,12,0.26,2.8938,Credit Card,Clothing,1.02,5.57,Location B,Delivered,3,Satisfied
+495,2023-10-28,16,Product A,4,68.27,273.08,CUST175,18,Other,North,City B,Online,Medium,0,,13,0.28,19.1156,Debit Card,Sports,3.16,9.42,Location A,Pending,2,Excellent
+496,2023-07-14,8,Product Q,12,15.59,187.07999999999998,CUST025,42,Male,Central,City A,Online,High,0,,1,0.15,2.3385,PayPal,Books,1.75,12.64,Location B,Cancelled,3,Not recommended
+497,2023-08-02,18,Product S,8,34.17,273.36,CUST094,68,Other,East,City C,Online,High,0,,11,0.21,7.1757,Bank Transfer,Sports,1.13,13.01,Location C,Pending,2,Satisfied
+498,2023-10-14,18,Product N,2,16.35,32.7,CUST021,53,Other,South,City D,Offline,High,0,,8,0.26,4.251,Debit Card,Home & Kitchen,1.63,9.49,Location C,Shipped,4,Satisfied
+499,2023-11-24,20,Product L,13,65.33,849.29,CUST084,34,Male,East,City D,Online,Medium,0,,10,0.11,7.1863,PayPal,Clothing,0.98,6.96,Location A,Shipped,1,
+500,2023-03-07,7,Product J,16,72.78,1164.48,CUST140,58,Male,West,City C,Offline,High,0,Damaged,4,0.08,5.8224,PayPal,Home & Kitchen,4.52,15.65,Location C,Cancelled,1,
